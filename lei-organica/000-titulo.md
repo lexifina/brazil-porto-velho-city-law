@@ -1,0 +1,2 @@
+# PREÂMBULO
+O povo do Município de Porto Velho, por seus representantes, reunidos em Câmara Constituinte, dentro do espírito da Constituição Federal vigente, de instituir um estado democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimentos a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, sob a proteção de Deus, promulga a seguinte LEI ORGÂNICA DO MUNICÍPIO DE PORTO VELHO.
