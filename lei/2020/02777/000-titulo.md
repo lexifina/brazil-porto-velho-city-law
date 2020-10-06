@@ -1,0 +1,3 @@
+# LEI Nº 2.777/2020, DE 01 DE OUTUBRO DE 2020.
+"Durante o Estado de Calamidade Pública, em razão da Pandemia infringida pela Covid-19, fica suspensa a obrigatoriedade para os vigilantes que exercem suas atividades profissionais para os Órgãos Públicos Municipais e para a iniciativa privada, a realização de treinamentos periódicos e eventuais, bem como o curso de reciclagem, que são exigidas a cada 02 (dois) anos para fins do exercício profissional e dá outras providências."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 4º, do art. 72 da Lei Orgânica do Município, a seguinte LEI:
