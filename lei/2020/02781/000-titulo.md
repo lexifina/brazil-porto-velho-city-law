@@ -1,0 +1,2 @@
+# LEI Nº 2.781/2020 DE 14 DE DEZEMBRO DE 2020 "Reconhece o caráter Educacional e For-mativo do JIU JITSU, autoriza o Execu-tivo Municipal a celebração de parcerias para o ensino nos estabelecimentos pú-blicos de educação básica e a inclusão na grade curricular ou na ementa escolar no Município de Porto Velho."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VE-LHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte LEI:
