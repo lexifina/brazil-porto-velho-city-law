@@ -1,0 +1,2 @@
+# LEI Nº 2.782/2020 DE 14 DE DEZEMBRO DE 2020 "Institui, no âmbito do Município de Porto Velho, política pública para garan-tia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Au-tista, e dá outras providências."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte LEI:
