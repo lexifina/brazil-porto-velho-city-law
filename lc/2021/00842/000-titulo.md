@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 842/2021, DE 26 DE FEVEREIRO DE 2021 "Dispõe sobre a forma de Remuneração e Aplicação do teto Constitucional dos Agentes Políticos e Servidores do Grupo Ocupacional de Representação e Consultoria Jurídica - GOJ e Grupo Ocupacional de Controle Interno - GCI e dá outras providências."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte LEI COMPLEMENTAR:
