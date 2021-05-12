@@ -1,0 +1,3 @@
+# LEI Nº 2.807/2021 DE 10 DE MAIO DE 2021.
+"Dispõe sobre a vacinação prioritária aos pacientes com "Doenças Renal Crônica" com tratamento em hemodiálise e dialise, e aos pacientes com " Neoplasia Maligna" com tratamento em quimioterapia e radioterapia, atendimento prioritário para vacina, teste rápidos e/ou RT-PCR e sorológico para diagnóstico do CORONAVÍRUS/COVID-19 ou outras doenças virais, relacionadas por pandemia, epidemia ou endemia".
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte LEI:
