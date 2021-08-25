@@ -1,0 +1,3 @@
+# LEI N° 2.844 DE 19 DE AGOSTO DE 2021.
+"Dispõe sobre a afixação, no âmbito do município de Porto Velho, de placas e cartazes com informativos em prédios e condomínios residenciais, também em estabelecimentos de circulação pública, comércios de alimentos em geral, farmácias e postos de combustíveis o número da Lei Maria da Penha (Lei 11.340), juntamente com o número de telefone 180, para denúncias de violência contra a mulher, e dá outras providências."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte L E I:
