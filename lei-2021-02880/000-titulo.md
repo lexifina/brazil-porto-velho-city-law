@@ -1,0 +1,2 @@
+# LEI N° 2.880 DE 08 DE NOVEMBRO DE 2021 "Dispõe sobre o prazo de validade de laudo médico-pericial que atesta Transtorno do Espectro Autista (TEA) e Síndrome de Down, para os fins que especifica, no âmbito do município de Porto Velho.
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte L E I:
