@@ -1,0 +1,2 @@
+# LEI N° 2.882 DE 08 DE NOVEMBRO DE 2021 "Proíbe no âmbito do município de Porto Velho a cobrança de sacolas descartáveis para transporte de produtos adquiridos em estabelecimentos comerciais."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte L E I:
