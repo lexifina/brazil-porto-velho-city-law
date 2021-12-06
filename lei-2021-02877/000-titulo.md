@@ -1,0 +1,2 @@
+# LEI N° 2.877 DE 08 DE NOVEMBRO DE 2021 "Dispõe sobre a realização do exame de "Ecocardiograma Fetal" durante o pré-natal e em bebês de até 02 (dois) anos de idade, nas Maternidades e Hospitais-Maternidades localizados no âmbito do município de Porto Velho."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte L E I:
