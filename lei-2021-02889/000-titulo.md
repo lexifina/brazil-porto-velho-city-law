@@ -1,0 +1,2 @@
+# LEI N° 2.889 DE 03 DE DEZEMBRO DE 2021 "Dispõe de autorização de políticas públicas a serem instituídas no Município de Porto Velho/RO, a fim de minimizar os prejuízos financeiros e psicológicos sofridos por crianças e adolescentes que perderam pais ou responsáveis para a COVID-19 e dá outras providências."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte L E I:
