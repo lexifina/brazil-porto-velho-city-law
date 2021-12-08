@@ -1,0 +1,2 @@
+# LEI N° 2.892 DE 03 DE DEZEMBRO DE 2021 "Autoriza os hipermercados, supermercados, mercados e estabelecimentos congêneres a disponibilizar caixa preferencial aos consumidores que utilizarem sacolas retornáveis."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte L E I:
