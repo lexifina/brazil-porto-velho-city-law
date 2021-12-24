@@ -1,0 +1,2 @@
+# LEI N° 2.905 DE 20 DE DEZEMBRO DE 2021 "Cria a Lei "Spyke" Tornando obrigatória a responsabilidade do autor de maus tratos a animais, a custear o tratamento veterinário do animal agredido, até sua pronta recuperação, e ainda fica obrigado a participar de ações de conscientização relativas à proteção dos animais."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte L E I:
