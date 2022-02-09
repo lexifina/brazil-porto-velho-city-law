@@ -1,0 +1,2 @@
+# LEI N° 2.908 DE 27 DE DEZEMBRO DE 2021 "Dispõe de autorização para criação de crematório público municipal e normas sobre cemitérios particulares no município de Porto Velho - Rondônia e dá outras providências."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte L E I:
