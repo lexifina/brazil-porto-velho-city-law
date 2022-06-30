@@ -1,0 +1,2 @@
+# LEI N° 2.937 DE 15 JUNHO DE 2022 "Dispõe sobre a criação de sala de acolhimento em unidades escolares da Secretaria Municipal de Educação que ofereçam programas de educação de jovens e adultos em turno noturno.'' FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+L E I:
