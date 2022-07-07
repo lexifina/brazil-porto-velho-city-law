@@ -1,0 +1,2 @@
+# LEI N° 2.948 DE 01 JULHO DE 2022 "Autoriza o Executivo Municipal a fazer, por meio da Secretária Municipal de Saúde - SEMUSA, a fazer Convênios com Entidades Civis organizadas e dá outras providências.'' FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+L E I:
