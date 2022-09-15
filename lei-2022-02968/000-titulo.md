@@ -1,0 +1,2 @@
+# LEI N° 2.968 DE 08 DE SETEMBRO DE 2022 "Denomina a Praça do Cohab e Campo do Binho, localizados na Rua Angico entre a Rua Erva Doce e Rua Erva Cidreira, Bairro Cohab de "Praça e Campo João Fermino Destro", e dá outras providências.'' FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+L E I:
