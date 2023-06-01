@@ -1,0 +1,3 @@
+# LEI N° 3.039 DE 29 DE MAIO DE 2023 "Cria e regulamenta o Programa de conciliação e mediação administrativa em conflitos fundiários urbanos e rurais, institui o Fundo de conciliação e mediação administrativa em conflitos fundiários urbanos e rurais; áreas a serem enquadradas no programa; formas de conciliação de propriedades privadas ocupadas com fim de promover o direito à moradia social, formas de recuperação de créditos por parte do Município e criação de Comitê de Mediação e resolução administrativa de conflitos."
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador MÁRCIO PACELE, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+L E I :
