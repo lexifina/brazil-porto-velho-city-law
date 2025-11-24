@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N° 1.040 DE 24 DE NOVEMBRO DE 2025 "Altera o art. 277 da Lei Complementar nº 138, de 22 de dezembro de 2001 - Código Municipal de Meio Ambiente, para estabelecer critérios diferenciados para a aplicação de penalidades administrativas a agricultores familiares e pequenos produtores rurais. " FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador FRANCISCO GEDEÃO BESSA HOLANDA DE NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+L E I COMPLEMENTAR:
