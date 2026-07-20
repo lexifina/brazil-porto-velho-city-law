@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 1.067, DE 20 DE JULHO DE 2026.
+Cria a Classe B.1 e o cargo de provimento efetivo de Condutor de Ambulância no Quadro de Cargos de Apoio Técnico, Administrativo e Operacional de que trata a Lei Complementar nº 384, de 30 de junho de 2010; dispõe sobre a transformação dos cargos de Motorista afetos à condução de ambulâncias; estabelece requisitos de investidura, atribuições e jornada, em conformidade com a Lei federal nº 15.250, de 3 de novembro de 2025, e com o art. 145-A da Lei federal nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro); e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO usando da atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.
+Faço saber que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou e eu sanciono a seguinte LEI COMPLEMENTAR:
