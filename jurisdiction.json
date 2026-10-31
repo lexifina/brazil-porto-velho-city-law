@@ -1,0 +1,9 @@
+{
+  "path": "br-ro-porto-velho",
+  "code": "BR-RO-PORTO-VELHO",
+  "name": "Porto Velho (city)",
+  "level": "municipality",
+  "parent": "br-ro",
+  "repo": "https://github.com/lexifina/brazil-porto-velho-city-law",
+  "build": "built: the Lei Orgânica of Porto Velho with its amendments, from the Câmara Municipal's SAPL"
+}

@@ -1,0 +1,541 @@
+{
+ "country": "BR-RO-PORTO-VELHO",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Porto-Velho",
+   "title": "Lei Orgânica do Município de Porto Velho",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13615",
+   "versions": [
+    {
+     "from": "1990-03-27",
+     "units": 235,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/0,1990-03-27,1990-06-25:7bjopyJOrAKdwtHukXoHTg_NBy8/",
+     "sha256": "41adfe98207ffbad7aef0820d678eb4d933eae8a8219e16f93cae64bdbf50c5e"
+    },
+    {
+     "from": "1990-06-26",
+     "units": 235,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1554,1990-06-26,1990-12-12:UtIxHNvct3whKCgXWLcrVJk7V1A/",
+     "sha256": "4f5678053fafb9f55f98f9dd2460a88b0aa01a838464d3f1509bb28485f80190"
+    },
+    {
+     "from": "1990-12-13",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1556,1990-12-13,1991-03-19:_8VIKUc8QkNVIpELdqoeysuJSS4/",
+     "sha256": "953127d9fc6acfe83a9216f1df27bd06635b09d1cff1424c525087d6b491c045"
+    },
+    {
+     "from": "1990-12-13",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1557,1990-12-13,1991-03-19:4hdSJEl9C7C334RSt9ackszFgyo/",
+     "sha256": "9022ca03060a68f21906d73cc0fb6266e15651e7b588f114d7168f67a65ef751"
+    },
+    {
+     "from": "1991-03-20",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1558,1991-03-20,1991-11-12:x3i7vSdAKrWVZ2WKzp3m6MKZ-X0/",
+     "sha256": "ce5cb40ce00415baad68aff70790096f35d8fa42ff825944b74e4c6ccbef751a"
+    },
+    {
+     "from": "1991-11-13",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1559,1991-11-13,1993-04-13:svkrcsiaPsamB1fWUyNGOeguRIE/",
+     "sha256": "5520e69fa0e93d01d6bf19e8c1883f2914539babaf60bc1952dc1a9f72789606"
+    },
+    {
+     "from": "1993-04-14",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1560,1993-04-14,1993-05-18:u5kKulk2BcQlHMNFaloTqM-g6fo/",
+     "sha256": "33af50ab16e5887ab47841a044a423a51a3e1fe7ce2ba2d4811eeb7f47adfa70"
+    },
+    {
+     "from": "1993-05-19",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1561,1993-05-19,1993-06-01:QdGjcyL5LuK-9Uf-Wz1pYoLijJ4/",
+     "sha256": "4cf368c15eadb00126456f30833d6d63e41269ad008e79c3b65206a326652dcb"
+    },
+    {
+     "from": "1993-06-02",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1562,1993-06-02,1993-10-14:XqfU1SvVXVqzCAR6YPfMYuBrfmY/",
+     "sha256": "57eb297d1449c43f95b5ebef2f7871fb263112e6f6e97fa5151b99d3b79f66a1"
+    },
+    {
+     "from": "1993-10-15",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1555,1993-10-15,1993-11-09:R2-bjfQLuou4m2pcfiR-x5g3HFg/",
+     "sha256": "4aac6e72cfcb2523e40b5a6832b10f583c50a1ce5bb54cc5d4c9ea930dd5b897"
+    },
+    {
+     "from": "1993-10-15",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1564,1993-10-15,1993-11-09:LY_LIG6pEj6quvRYxeScFjjY6E0/",
+     "sha256": "56abe4091b9a09744829e746d8af0b6f11c80b8db2b420bf071b16fdd8add400"
+    },
+    {
+     "from": "1993-11-10",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1565,1993-11-10,1994-02-21:2BmEoxeuza2otcD50qXiKXthWys/",
+     "sha256": "692106f1ba1bffcfd67c76f2d311bc91735e68ba6dfb136282302824b49a3699"
+    },
+    {
+     "from": "1994-02-22",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1566,1994-02-22,1994-04-12:fNLSpkJqpIZOyXhJiHsrOR3npn4/",
+     "sha256": "34f24f5182f426c526a66c2b039c219423df8c9eea369f7fa7f051622ac40d93"
+    },
+    {
+     "from": "1994-04-13",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1567,1994-04-13,1994-05-31:WZJHrw54UQyEDud2fboeE8MBFqw/",
+     "sha256": "dab0bde67ebf9d512c0f479102991aecb3304dfff7d6af032bef7918db7cc4a5"
+    },
+    {
+     "from": "1994-06-01",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1568,1994-06-01,1994-08-22:AbgLa1OfqL1SrUM0G_kKopOTAb0/",
+     "sha256": "cbd90f9b95e7abd7856536109205350cb5832092741ad996ee63a80685ad7859"
+    },
+    {
+     "from": "1994-08-23",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1573,1994-08-23,1994-09-12:Y5xXLpemX6S3PRPek1QnY5XDNbc/",
+     "sha256": "ee125d40ab75b33b322f1cdf0dab6727f22d955397e418d09806bb2056678a9f"
+    },
+    {
+     "from": "1994-09-13",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1574,1994-09-13,1995-04-27:NHz-TXiDhIiEkhPbjf12TRFlnGo/",
+     "sha256": "b181e09c5ca99efb2c7333e015adc5632d21a60186ed5522dc59cbcdd7ff9bac"
+    },
+    {
+     "from": "1994-09-13",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1575,1994-09-13,1995-04-27:MeKSHg_MGu1X5sqYxG-Tqu3P2N8/",
+     "sha256": "d3946dd35a9b9554283d994fd3e3583011bcf1c4a4fbaf9e45886dddb7ddba27"
+    },
+    {
+     "from": "1995-04-28",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1576,1995-04-28,1995-11-12:QL-sXlT1Rj4gGyCbzsk5y0ugk6I/",
+     "sha256": "8504b4f1cb2eb6352ab69b0c856c8a0f7bad6b37b8de0f5ea98c33245ff2139f"
+    },
+    {
+     "from": "1995-11-13",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1577,1995-11-13,1996-06-12:9ORtTg7eEJZPaOVld4NDOhF-hcY/",
+     "sha256": "b7a6870bffb4b6b3ec3e48f2a6d869db25a0b3fdfcec0a198fae9c264bc3e462"
+    },
+    {
+     "from": "1996-06-13",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1578,1996-06-13,1997-04-02:DH7QLs6Ka3P4-vZNf708wVIlqhA/",
+     "sha256": "b2d49a8ce0f7edd082ca95dceb52eb9f3b9ac743ad6a91fcdaa70fbb5574ef28"
+    },
+    {
+     "from": "1997-04-03",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1579,1997-04-03,1997-06-18:KiiyggOmLNuKAOOhABkpcOruGmA/",
+     "sha256": "8a403691b1dd4b0d657fca309c94ec5b517ed3634cf09acb697a9e47c0f47705"
+    },
+    {
+     "from": "1997-06-19",
+     "units": 236,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1580,1997-06-19,1997-06-29:9KWVvZWEP3nCwLu8nLUIpnIM_LE/",
+     "sha256": "41646db53443e880bb7786b5293cfc7a28a533d2233c6aec56c2bbfbd72ba7c2"
+    },
+    {
+     "from": "1997-06-30",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1581,1997-06-30,1997-10-22:vBC__C59Cb9HOu5rM9SgLli9_J8/",
+     "sha256": "e863522f1f81c06fe72f097cd1bf7f681b808044d4f759427f06f98aabbdb809"
+    },
+    {
+     "from": "1997-10-23",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1582,1997-10-23,1998-03-04:bV0UITa1CIBxua5eODG9VFE1c0g/",
+     "sha256": "f231912587dc7589e30247a65e176c6111463d67c5186aeedd79ce723837143f"
+    },
+    {
+     "from": "1998-03-05",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1583,1998-03-05,1998-03-25:Lystl8_e26MO3yzxZnTY--DuAiE/",
+     "sha256": "4e601bcd762b2349eef4da373e80d9925a4e196df7f7fbbecd325a4da9de3539"
+    },
+    {
+     "from": "1998-03-26",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1584,1998-03-26,1998-04-02:N9Jwr9jYUzfE8E_3RSntjT9wZ2M/",
+     "sha256": "c2e034978c306ac4db57eebc68f2954b7c104d140289e496a575cc662841e62f"
+    },
+    {
+     "from": "1998-04-03",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1585,1998-04-03,1998-06-17:daBFK9i6UlqbUhqg2X8WOQSWqqU/",
+     "sha256": "13dae0f46ae0b132ffd4f87ca5a686babf781e358e72929987d420799883834c"
+    },
+    {
+     "from": "1998-06-18",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1586,1998-06-18,1998-10-13:umAXcv-DFVfoR4bXlMn3erhvBv4/",
+     "sha256": "93110649edba1b5f39e10081895cc7a1fe388698f6355c60a175b2ec68855453"
+    },
+    {
+     "from": "1998-06-18",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1587,1998-06-18,1998-10-13:TLGFs91lkAagfSRbm2Da7oUo9hU/",
+     "sha256": "32d49e9cf313b869c88a899daa0189a9e013c9c3fd3522cb04ebe316afbfc409"
+    },
+    {
+     "from": "1998-10-14",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1588,1998-10-14,1998-11-02:OZcyGnMCrswqWK76VyxL0xTu2wc/",
+     "sha256": "104b586b68cbbe601ef5cdd7f64c041d17bf6b29ded86d8076ccf330eab4e405"
+    },
+    {
+     "from": "1998-11-03",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1589,1998-11-03,1998-12-09:e1BE1-zc9RLfweRNpB_z557FxEY/",
+     "sha256": "9d32aa4f9fe7861421851e93b8a264db610c582f897a7879c6871664a5124a07"
+    },
+    {
+     "from": "1998-12-10",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1590,1998-12-10,1999-03-03:g1KvvSz5X1YBSqrnpingtiKHeFQ/",
+     "sha256": "24a18d1ba59fc1610e5152ef8154d3da55d191e77884fb67b93947f7a6fd4bc9"
+    },
+    {
+     "from": "1999-03-04",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1591,1999-03-04,1999-05-05:MRUbTltbYDmaQdDebqBmgzeq40o/",
+     "sha256": "4c928725394ba3cd0854905d33ddcbf0db16112c01f05a1dedb4aa5a5d9960d8"
+    },
+    {
+     "from": "1999-03-04",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1592,1999-03-04,1999-05-05:IHGRJvpYgfiGvsKdxPk4-xoEuoI/",
+     "sha256": "7f0ff7e920b50f21d757657297cc637e998d5aabe54225c0ef54aed7a0635588"
+    },
+    {
+     "from": "1999-05-06",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1593,1999-05-06,1999-05-26:73FCkcKpvMFSRNFaqhZRR0I-cuc/",
+     "sha256": "771ea24309df1a0c5d0655cc81318bf5311cf935bf74b195f3697469444e3ce6"
+    },
+    {
+     "from": "1999-05-27",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1594,1999-05-27,1999-09-08:4IXBgxjW_KERTseCuw0dqLg8Hbs/",
+     "sha256": "5e834c3d795c5307ef96620f13e09a5964497ee0f1dfd90bb46681e4e5af64be"
+    },
+    {
+     "from": "1999-09-09",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1595,1999-09-09,2000-05-02:U_QYzjA1XLnaDb70JHk35kmmCok/",
+     "sha256": "c710ac7cf0a7c1d7eebdda3f6a86c5928414032b63e29d6d76ed5ba5eb58cdd2"
+    },
+    {
+     "from": "1999-09-09",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1596,1999-09-09,2000-05-02:hiiJvZptqgmwJQlcRVaEieMVDJU/",
+     "sha256": "61080f2cfc264201bd8c8d071f07a08cd0800b667b918d104b36cb533fa2c1f0"
+    },
+    {
+     "from": "2000-05-03",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1597,2000-05-03,2001-04-25:zfUFgzSkLmULwduVFxEIKay4dls/",
+     "sha256": "d29dcaabeff689720f134f25273904b1dd4ffd2c7daf17f3ee93d9f6db688bdc"
+    },
+    {
+     "from": "2001-04-26",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1598,2001-04-26,2001-05-27:kuur-nzetogTPYud4SiGIZpdioQ/",
+     "sha256": "8955220363f3958f5ef97096531bf26e2c0772c765c877ea57efecf6898ecf4d"
+    },
+    {
+     "from": "2001-05-28",
+     "units": 237,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1599,2001-05-28,2002-02-25:oCOUHFlPaii7_Vt0TkXUUbviz9A/",
+     "sha256": "dd021b799c765a33d04f0f6020bd4247ed172b6d184e3503f2903b3a3bd7c82b"
+    },
+    {
+     "from": "2002-02-26",
+     "units": 238,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1600,2002-02-26,2002-04-17:XeOPBdKdIk_XIp3FIczYsNb58N0/",
+     "sha256": "2efc7d0fd815beb1983eb575b421b9fc2113b6d09e7e1146310b96dca994d232"
+    },
+    {
+     "from": "2002-04-18",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1601,2002-04-18,2002-12-16:mtAjmC5dpkFS9vy_olJBohhrxu0/",
+     "sha256": "80f5f4e9100c0bcfb875c64c421a0a4c4e0537c0280057943eaa823d3ce0b6b7"
+    },
+    {
+     "from": "2002-04-18",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1602,2002-04-18,2002-12-16:dEfO_RCOQtAGbOultZfYPdDogec/",
+     "sha256": "38969ce73bdecc5723591da56d2f2671e9febc35e0e635d47d86c9b80a956740"
+    },
+    {
+     "from": "2002-12-17",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1603,2002-12-17,2004-06-24:wOcaDBQLiiQx9myRsZVPVOxP4_E/",
+     "sha256": "05b861975828fbdbdbc72731975c87e1903af1e9d1f5f9c71267e37b021c3560"
+    },
+    {
+     "from": "2004-06-25",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1604,2004-06-25,2005-03-30:MijiP5zXsTAWq7xOaWRk5OZX3mM/",
+     "sha256": "34613ab919dd897cec2d5ba3d6e996b264e688e3f5e8fc8716274415cf108351"
+    },
+    {
+     "from": "2005-03-31",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1605,2005-03-31,2005-08-03:nvCiYH7sofVc7XH9ORhBKA5iaCg/",
+     "sha256": "9894bad72a7bd7f3ae5314a120674040f9193b4de221d3a55305c12d23991240"
+    },
+    {
+     "from": "2005-08-04",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1606,2005-08-04,2006-03-22:urzLHLRTTbrIYpFyKbuEvPI8ndc/",
+     "sha256": "f7fa77ebe5e844def274691942690e57071374f7dd3ebf9d27d59cd82d25b6f9"
+    },
+    {
+     "from": "2006-03-23",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1607,2006-03-23,2006-09-17:taM1WeJBn-2-LKbLA7M-JCdOjxU/",
+     "sha256": "9aba327ee97af60a650c1aec5d1581f4cd17ff184173e6a9d46246c50fb0ef9b"
+    },
+    {
+     "from": "2006-09-18",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1608,2006-09-18,2007-06-19:azYDEUy_XtjUFUwmPgb4ixQCa6U/",
+     "sha256": "22ad388f2d520cf8adb54c42156f8d39c5dea5ecb7c428ccbde01dfe3826f6f7"
+    },
+    {
+     "from": "2007-06-20",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1609,2007-06-20,2007-12-23:jERrangtuvpzB0RG6Bq2zx2Scyo/",
+     "sha256": "422cdd7582b2238313b0db1ed767d41374d9797fe3402dc74c07231cd3cd438c"
+    },
+    {
+     "from": "2007-12-24",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1610,2007-12-24,2008-11-25:s5_YCGwywYUL9jiDX1C0fRyUTPs/",
+     "sha256": "ff9129434e9fe0fe712b5ac5f92d2cfab206b9dd878c6fa5e770df16abd11d1d"
+    },
+    {
+     "from": "2008-11-26",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1611,2008-11-26,2008-12-15:V-uDXVMaUlVMCwa7sUcy-iVyTxk/",
+     "sha256": "be6f1dd002d2846f5772b8e3a61a1b802983bf312bb44eaf516dcbbbd263b2ee"
+    },
+    {
+     "from": "2008-12-16",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1612,2008-12-16,2008-12-28:NAw-sSWA_0y46ceC1_vHr-7AvLU/",
+     "sha256": "4375112830eaac8a0d8422a7900bb2b02945c582fb119a18e0a8029224a97527"
+    },
+    {
+     "from": "2008-12-29",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1613,2008-12-29,2009-10-12:_trQbPPBru5ub06J4NLAE1PXkE0/",
+     "sha256": "08c68f79c3a993ced4a7aacf25d53b11d0c0d2cedef0a07daa7f6af17f23131d"
+    },
+    {
+     "from": "2008-12-29",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1614,2008-12-29,2009-10-12:J7Evwh2uvkHoFtF49Mzk_0q_OnE/",
+     "sha256": "ae685df3ec58b6a4f1994601ce891636628ea104bd41bec03a5a5217dabbf14c"
+    },
+    {
+     "from": "2009-10-13",
+     "units": 239,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1615,2009-10-13,2010-02-22:MASjayVN1CDSfdLnqwg5hA277iE/",
+     "sha256": "f8a3cefea2a254e7eb3105dd9baf67128f2bd600d0b38466f64302f45819e6e7"
+    },
+    {
+     "from": "2010-02-23",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1616,2010-02-23,2010-08-22:MPNYIcmUx3xIH4JxFtxgzz9xyj8/",
+     "sha256": "07cceb97a568d3dd08cb7f98a14899d3d5249c3e45ad40f3daa4252582e40cfe"
+    },
+    {
+     "from": "2010-08-23",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1617,2010-08-23,2011-10-04:zvveeHqkza6A8t5g08cRo87wthg/",
+     "sha256": "51eb014fc5e7e2c02eed96926da7057543d8395ac72faed1b706e1f12ba510c7"
+    },
+    {
+     "from": "2011-10-05",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1618,2011-10-05,2012-07-01:BiSOlwfZapZnXVNMLmUBsFkxhGw/",
+     "sha256": "b5e08f5737d33904b14d9138e932cb1cc21fe2043c9f371b2fa4b5f2b1b50911"
+    },
+    {
+     "from": "2012-07-02",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1619,2012-07-02,2012-12-16:GHTHBUQSbVMJMQ4szXT8QQ_rzfA/",
+     "sha256": "acc85c711b14f31cf32f6f69b692a62724120917a472aa78645f12461aec6614"
+    },
+    {
+     "from": "2012-12-17",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1620,2012-12-17,2012-12-18:-WPJY27ONoeRZfUKKS0gd_bX-FQ/",
+     "sha256": "b10c4e94e3ac4251513d94d3a8d17f6627b93b29dda82ccf302fa015cc7da306"
+    },
+    {
+     "from": "2012-12-17",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1621,2012-12-17,2012-12-18:gR6WUy5tXtDG6EfdROtQ650g4cI/",
+     "sha256": "f291dbbb80bf5ef1b8998d366086573478f47af162a946fa91dbccc672801010"
+    },
+    {
+     "from": "2012-12-19",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1622,2012-12-19,2013-06-04:C3XTl7IgdY941TGOkH7kWp7vgSs/",
+     "sha256": "4e397dd2b4536bd8aca821d48b7fc3380815ad17b573b758caf22debe00da2bc"
+    },
+    {
+     "from": "2013-06-05",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1623,2013-06-05,2014-05-19:0MNy29UVdKU-fLSBDkeadVFHFMU/",
+     "sha256": "d4747dd0b2cccaf04e1e8f7a0da120fe15c70d9f5c7ec0ac09e11ce11915612a"
+    },
+    {
+     "from": "2013-06-05",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1624,2013-06-05,2014-05-19:D90J7ma1tmAc7qhy4tS5h7dSe-E/",
+     "sha256": "0ef659a2907ec7129b20feef14c2a37dee74d5a03535e14008c998baa971bff3"
+    },
+    {
+     "from": "2014-05-20",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1625,2014-05-20,2015-04-14:kME7wWuggy0Jzu79fyNgusZcfiU/",
+     "sha256": "924ced28988054154af918efd3f31cf9cf4f384e141c9d52f86bc52ae3f0d38f"
+    },
+    {
+     "from": "2015-04-15",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1626,2015-04-15,2015-09-29:PmjuDKA4SxI6ufgKGiCzt-7lagU/",
+     "sha256": "6cad5caa2d13a4af0b58f4c0e287ae923aa4c6a37f6087db57cc3e7cc5b2b5a6"
+    },
+    {
+     "from": "2015-04-15",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1639,2015-04-15,2015-09-29:ExaeUFbOPhWrwkwqE3PeKrfTX7o/",
+     "sha256": "e8541e00cb525af571cfc45fbc457507cddd0b6bd3fe73c0de3a5e2623675510"
+    },
+    {
+     "from": "2015-09-30",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1627,2015-09-30,2015-10-19:hi3smqBD4p_w0gUTe_bPcF3-jAc/",
+     "sha256": "9432a8df69c4b331dd57f528b9e00924b1e51f1db5a4d86ffea13ad4e7a63347"
+    },
+    {
+     "from": "2015-10-20",
+     "units": 240,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1628,2015-10-20,2016-05-09:SqygmJm_EQ5q-n2OTCr5q4Ddxp0/",
+     "sha256": "dd214a43261c5a6bf956d63d4c39ecb914ff88db6fddda839c2912da02ce49e7"
+    },
+    {
+     "from": "2016-05-10",
+     "units": 241,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1629,2016-05-10,2016-07-08:ovjDkAKeVZPkqqmGJAKF6CmrsSE/",
+     "sha256": "89fbbfd6304fc0be2eb947399e0e5f8364433ef498ea8272acf17d3c01059fc8"
+    },
+    {
+     "from": "2016-07-09",
+     "units": 241,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1630,2016-07-09,2016-12-25:LSTynX-LdodVlEuzt7xNHtphgfc/",
+     "sha256": "3c658066882a109887a702f90134277599b81f4bd27a2ee7afc1c08ccecf2981"
+    },
+    {
+     "from": "2016-12-26",
+     "units": 241,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1632,2016-12-26,2017-06-19:pl5itncKHQeM8OoDFt6ePmTvno0/",
+     "sha256": "19420e598c70a564d64155398b0ef2d9a6f97b884d9e846ec27718711871e920"
+    },
+    {
+     "from": "2017-06-20",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1633,2017-06-20,2018-02-28:t-npzjhrSHVX9jnRWloPgqn47B4/",
+     "sha256": "531cb6a84769a986c0e144c806096809fcdc213e7a31a7f96ea118bae7a1600f"
+    },
+    {
+     "from": "2018-03-01",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1634,2018-03-01,2018-08-21:FuchTHeqDXf7FZ1AaAoI4MvQ-xs/",
+     "sha256": "8d2fd65efd70878998af2c1bddc3b17437864e6e62c992557fa2603a1826d6c6"
+    },
+    {
+     "from": "2018-08-22",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1635,2018-08-22,2019-06-23:9tjZT-MN8ix-fRApmIbqrYvdlNU/",
+     "sha256": "74a0667856dc217e44ab57b906f9199a7db53f8b79318e369c5b50b12c1db640"
+    },
+    {
+     "from": "2019-06-24",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1636,2019-06-24,2020-12-29:9AQT58ovVb4wkTLcQGKzkOYTnAU/",
+     "sha256": "47e8fbc06e47565d5d1bc9e6b8fd8e6f42a57e3e12a62f5e9b36e5c120e2c802"
+    },
+    {
+     "from": "2020-12-30",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/1637,2020-12-30,2023-01-05:E6yeQ3foo5md2cYdZQmVg2t16dc/",
+     "sha256": "7a7dd82c8bb06b107c34394555a55fc4afc59a87c325320fc4738f9373f5e297"
+    },
+    {
+     "from": "2023-01-06",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/2508,2023-01-06,2023-02-26:3YAoMbcyw-Xg6dd1flWDoIIlazM/",
+     "sha256": "6e65d1c32f8e64ba23eb292f7d401b27ef049a61f502228bfb375ad3c9548709"
+    },
+    {
+     "from": "2023-01-06",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/2509,2023-01-06,2023-02-26:Cw7i1TNiwuZIg_R2mDiRbWWBYNs/",
+     "sha256": "f6e336ab15f17c2eefe731cb3789ebd266c7d5fec0c8bdd9d312ca64867dc3f0"
+    },
+    {
+     "from": "2023-02-27",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/2534,2023-02-27,2023-09-17:65y1wpq7SHgy6y7Q5Z8M_pO7S2Y/",
+     "sha256": "560fa110c6b190537cb0667de1733e935474b5976db594240425b469017abbe2"
+    },
+    {
+     "from": "2023-09-18",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/3809,2023-09-18,2023-10-02:5cNb2-3NdoE-ohkwMlqpIgsPhes/",
+     "sha256": "2563efa67e7e4cda9a777d179b281e2a6dc7e06216dc718b1e7f10921b3a8fb7"
+    },
+    {
+     "from": "2023-10-03",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/3810,2023-10-03,2024-02-18:inkEysdQr0UsXlQiQB3kdKEqQtQ/",
+     "sha256": "6f060d956fc1f4840e9142953a0efd2bed3f8ae293cd01f23daf09605e817320"
+    },
+    {
+     "from": "2024-02-19",
+     "units": 242,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/4975,2024-02-19,2025-09-23:3EXvF_7T8NfHRIlNW3oaEAHg83w/",
+     "sha256": "e0d4116b4922128d11b214a0fcd9eab863742267aa26b60d80f668fd37568286"
+    },
+    {
+     "from": "2025-09-24",
+     "units": 243,
+     "source_url": "https://sapl.portovelho.ro.leg.br/ta/1639/text/vigencia/8076,2025-09-24,2025-11-13:Yoj3isGzZH_-Gps6VZGaNg7bRrA/",
+     "sha256": "fc880f35c24ba069eebd04f28069d8fe866d2237115f52bac0cdbe066994929e"
+    },
+    {
+     "from": "2025-11-14",
+     "units": 243,
+     "source_url": "https://sapl.portovelho.ro.leg.br/norma/13615",
+     "sha256": "e108f4b3880d24270ab7b48c6e1c5fe40862360dabb36add55ad14894e4ac85e"
+    }
+   ]
+  }
+ ]
+}
