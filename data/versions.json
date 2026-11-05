@@ -536,6 +536,1014 @@
      "sha256": "e108f4b3880d24270ab7b48c6e1c5fe40862360dabb36add55ad14894e4ac85e"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-03524",
+   "short": "Lei 3524/2026",
+   "title": "Lei nº 3.524, de 23 de outubro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29934",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29934/lei__no_3.524_de_23.10.2026..pdf",
+     "sha256": "057b8aec9b793bd38da7ca10faae048ec2b2bba2f17366f45e6d9794debe7679"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03523",
+   "short": "Lei 3523/2026",
+   "title": "Lei nº 3.523, de 23 de outubro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29933",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29933/lei_no_3.523_de_23.10.2026..pdf",
+     "sha256": "c360f2ea2fac22bdeed0995fe1579adea56a74e5a8c9606823bef5ab8bbf01c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03521",
+   "short": "Lei 3521/2026",
+   "title": "Lei nº 3.521, de 23 de outubro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29930",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29930/lei_no_3.521_de_23_de_outubro_de_2026..pdf",
+     "sha256": "366b4f80d29b782770ef9843cbfffb90e62307ddf7d98c8f99f78931eb819bb7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03520",
+   "short": "Lei 3520/2026",
+   "title": "Lei nº 3.520, de 23 de outubro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29917",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29917/lei_no_3.520_de_23.10.2026.pdf",
+     "sha256": "3f687ae9af7e26618fd3e009afd8da42b1b651de0b0d2d24dfa9f14a445e713f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01090",
+   "short": "LC 1090/2026",
+   "title": "Lei Complementar nº 1.090, de 23 de outubro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29908",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29908/lei_complementar_no_1.090_de_23.10.2026.pdf",
+     "sha256": "e0658ab0240bb1fa58cd72ba9dd8dbb8dd74084a29bc654d1e2561c491dde4fb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01084",
+   "short": "LC 1084/2026",
+   "title": "Lei Complementar nº 1.084, de 15 de outubro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29882",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 14,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29882/lei_comp.no_1.084_de_15.70.2026..pdf",
+     "sha256": "04833f90c3f75bd49f9a618baee2ed531bd7ef63c0ef57c6a35647f610b0b000"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03519",
+   "short": "Lei 3519/2026",
+   "title": "Lei nº 3.519, de 21 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29800",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 38,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29800/lei_no_3.519_de_21_de_setembro_de_2026_3.pdf",
+     "sha256": "2696856e1079098edbb96df146091b6a2a5b489aa0439a98a0f21504621ae6fa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01083",
+   "short": "LC 1083/2026",
+   "title": "Lei Complementar nº 1.083, de 21 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29801",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 66,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29801/lei_complementar_no_1.083_de_21.09._2026.pdf",
+     "sha256": "9065b85b5af93bab428c10932bd3ef80e3bf26b224eee44a218c6dde5cdc81a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03518",
+   "short": "Lei 3518/2026",
+   "title": "Lei nº 3.518, de 15 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29773",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29773/lei__no_3.518_de_15.09.2026.pdf",
+     "sha256": "f04cdd6d092c950ef09055993d5cbad66a2760cafe5b87cf6ba474b60bc9c112"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03517",
+   "short": "Lei 3517/2026",
+   "title": "Lei nº 3.517, de 15 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29767",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29767/lei_no_3.517_de_15.09.2026.pdf",
+     "sha256": "8fa49d8249460a8d4710675733f2a7a70365854247469995bf8e80c9acc91289"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03516",
+   "short": "Lei 3516/2026",
+   "title": "Lei nº 3.516, de 15 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29766",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29766/lei__no_3.516_de_15.09.2026.pdf",
+     "sha256": "b7bc51d17d4c081fd4d47f432a6e9731080bebbdee284e7611cedd2b508cdfec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03515",
+   "short": "Lei 3515/2026",
+   "title": "Lei nº 3.515, de 15 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29751",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29751/lei__no_3.515_de_15.09.2026.pdf",
+     "sha256": "8d9601a76dd480cac562a92dbddf8b058deb45ed8b6f13eb401a7eeb92bcc0b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03514",
+   "short": "Lei 3514/2026",
+   "title": "Lei nº 3.514, de 10 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29725",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29725/lei_no_3.514_de_10.09.2026.pdf",
+     "sha256": "54409d0ea542bc75ab1c80c02c9974025882c8f02634de8cbaee217fc44657af"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03513",
+   "short": "Lei 3513/2026",
+   "title": "Lei nº 3.513, de 10 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29722",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 16,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29722/lei_no_3.513_de_10.09.2026.pdf",
+     "sha256": "73b3df94617288592ae2e2a15b9373f31c794a4d233a5cac9f78fb22ab515ecc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03512",
+   "short": "Lei 3512/2026",
+   "title": "Lei nº 3.512, de 10 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29721",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29721/lei_no_3.512_de_10.09.2026.pdf",
+     "sha256": "fb959304b17d8d2af651efe57173c47a0017704e15c6ae178f2bf580338fb1e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03511",
+   "short": "Lei 3511/2026",
+   "title": "Lei nº 3.511, de 10 de setembro de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29720",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29720/lei__no_3.511_de_10.09.2026.pdf",
+     "sha256": "5c55a659325decf7b262f99aa1080dffb108cac61781ad3f2b5b233d65bbff59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03509",
+   "short": "Lei 3509/2026",
+   "title": "Lei nº 3.509, de 28 de agosto de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29710",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29710/lei_no_3.509_de_28.08.2026_sancionada.pdf",
+     "sha256": "b86e3bcb251894b07dbfcf92f2ea76283b3dcd851eadcf4be650f69d23399e54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03508",
+   "short": "Lei 3508/2026",
+   "title": "Lei nº 3.508, de 28 de agosto de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29709",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29709/lei_no_3.508_de_28.08.2026_sancionada.pdf",
+     "sha256": "4ae2e52806fb1802e81d650a0fe31190c0d578084b9672bf2bf68b118023bf63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03507",
+   "short": "Lei 3507/2026",
+   "title": "Lei nº 3.507, de 28 de agosto de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29703",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 12,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29703/sei_1449505_legislacao_137.pdf",
+     "sha256": "0edb6d9a3f3619bc7c0b08f1d6bfc7b5a5bb32ae8ab8dc57030e1908644fbe48"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01081",
+   "short": "LC 1081/2026",
+   "title": "Lei Complementar nº 1.081, de 28 de agosto de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29719",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 49,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29719/lei_comp._no_1.081_de_28.08.2026.pdf",
+     "sha256": "1ad283f47a9f5a3512c7ce6dc587b77bc01ddfc07b4b72c91572eba86f40de70"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01080",
+   "short": "LC 1080/2026",
+   "title": "Lei Complementar nº 1.080, de 28 de agosto de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29717",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 38,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29717/lei_comp._no_1.080_de_28.08.2026.pdf",
+     "sha256": "b1de8ae9d4d220cc8a849d917bf0b2b73cba3063dc003fa67a4f6936ba67ce26"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01079",
+   "short": "LC 1079/2026",
+   "title": "Lei Complementar nº 1.079, de 28 de agosto de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29712",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29712/sei_1449610_legislacao_139.pdf",
+     "sha256": "425d00112a6c92fe4c96de0774557a98fe0a861bc62c7427f990ef8e27ea4fba"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01078",
+   "short": "LC 1078/2026",
+   "title": "Lei Complementar nº 1.078, de 28 de agosto de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29704",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29704/sei_1449362_legislacao_136.pdf",
+     "sha256": "1e6e60f91d9815003c87ffad63556675f21f5f52ce67d819312258df209963e0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01077",
+   "short": "LC 1077/2026",
+   "title": "Lei Complementar nº 1.077, de 13 de agosto de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29613",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 24,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29613/sei_1383744_legislacao_130.pdf",
+     "sha256": "01aa3db21cf46fcce16f6ce6161caaf2f69f216273c108f27ea9c8cf47db64ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03486",
+   "short": "Lei 3486/2026",
+   "title": "Lei nº 3.486, de 23 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29533",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29533/lei_no_3.486_de_23.07.2026.pdf",
+     "sha256": "df2fb50f71d9c57ab7ecc15ac9fe83688f4e1b788ec6469be467d79bf8557e37"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01067",
+   "short": "LC 1067/2026",
+   "title": "Lei Complementar nº 1.067, de 20 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29494",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 12,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29494/lei_comp.no_1.067_de_20.07.2026.pdf",
+     "sha256": "e47cf03dbe2c088518f6311588ea880377a397f9c6a2abbfde6d97cc723491ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03485",
+   "short": "Lei 3485/2026",
+   "title": "Lei nº 3.485, de 13 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29471",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29471/lei__no_3.485_de_13.07.2026_2.pdf",
+     "sha256": "c5a72995830b476e4a12f54cf551da944c1594ff6ca6f3f0d14298b24d675c9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03484",
+   "short": "Lei 3484/2026",
+   "title": "Lei nº 3.484, de 13 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29470",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29470/lei_no_3.484_de_13.07._2026.pdf",
+     "sha256": "54517c14f2e6cf457d5c3483c11265c8f0b71959b995ac94b046b26792f63956"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03483",
+   "short": "Lei 3483/2026",
+   "title": "Lei nº 3.483, de 13 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29469",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29469/lei_no_3.483_de_13.07.2026.pdf",
+     "sha256": "3faf2b8b2f973bf1b03158f5e9cab4567bbea717de131cc051eda61b41516512"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03482",
+   "short": "Lei 3482/2026",
+   "title": "Lei nº 3.482, de 13 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29468",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29468/lei__no_3.482de_13.07.2026.pdf",
+     "sha256": "08adee072a13531171ba20bf2a276e67da76d78b4bdef0d1eb0066f64fd1e7bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03481",
+   "short": "Lei 3481/2026",
+   "title": "Lei nº 3.481, de 13 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29467",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 14,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29467/lei_no_3.481_de_13.07.2026.pdf",
+     "sha256": "c441706ac1160557fad1408903ae933c713c6bfe5fa536088f2697a647657e7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03480",
+   "short": "Lei 3480/2026",
+   "title": "Lei nº 3.480, de 13 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29462",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 11,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29462/lei_no_3.480_de_13.07._2026.pdf",
+     "sha256": "98fcf08060ec0cae1c6c852ce3e193a2eabf9cd2b3bba1acd7e3f10c8bbb10f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03479",
+   "short": "Lei 3479/2026",
+   "title": "Lei nº 3.479, de 13 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29461",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 13,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29461/lei__no_3.479_de_13_de_julho_de_2026.pdf",
+     "sha256": "0bfbba860b9c4075a4eea31f0e56be5a34019910259b0b0bee2b0b327b6c3921"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03478",
+   "short": "Lei 3478/2026",
+   "title": "Lei nº 3.478, de 13 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29460",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 14,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29460/lei_no_3.478_de_13.07.2026.pdf",
+     "sha256": "cb3bd8a76dbdae40a9fc51ea412efcca92e704666de627f2a4788a2fa46aad81"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03477",
+   "short": "Lei 3477/2026",
+   "title": "Lei nº 3.477, de 10 de julho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29458",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29458/lei_no_3.477_de_10.07.2026.pdf",
+     "sha256": "33d70482a3d3e4723650b7ba59104fffef545ff79b407b191477acc373bba41e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03474",
+   "short": "Lei 3474/2026",
+   "title": "Lei nº 3.474, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29436",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 12,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29436/lei_no_3.474_de_30.06.2026.pdf",
+     "sha256": "a5f85abae1fe4c38e5ef6ee22cf5b8aae7e287c50cd024f681906201a96fdc07"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03473",
+   "short": "Lei 3473/2026",
+   "title": "Lei nº 3.473, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29432",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 14,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29432/lei_no_3.473_de_30.06._2026.pdf",
+     "sha256": "9708a7556480cf3e497e9432b2b10e2b12af044a092ba96e10708565b8c0262c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03472",
+   "short": "Lei 3472/2026",
+   "title": "Lei nº 3.472, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29431",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29431/lei_no_3.472_de_30.06.2026.pdf",
+     "sha256": "38149afc0ae7de3bd51b5c4912c15d36752d464b744b049a55a896a1fc12e784"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03471",
+   "short": "Lei 3471/2026",
+   "title": "Lei nº 3.471, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29430",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29430/lei_no_3.471_de_30.06._2026.pdf",
+     "sha256": "07a7f3f53a3cc79435f6d61791b11e67c2024eb12163384ae205d889598284e7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03470",
+   "short": "Lei 3470/2026",
+   "title": "Lei nº 3.470, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29429",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29429/lei_no_3.470_de_30.06.2026.pdf",
+     "sha256": "7a0404a48de9a3af84cf9bef58471af21929c5afd1981f95a4079b243f767b4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03469",
+   "short": "Lei 3469/2026",
+   "title": "Lei nº 3.469, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29428",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29428/lei_no_3.469_de_30.06.2026.pdf",
+     "sha256": "70ede676f091d201a4f945b0e0581c09770a065590e5c4a2d220da9181512246"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03468",
+   "short": "Lei 3468/2026",
+   "title": "Lei nº 3.468, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29427",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 10,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29427/lei_no_3.468_de_30.06.2026.pdf",
+     "sha256": "aa0811732406e9bd30ffa4026b4a9ddac1807b7610fd4f8ffb403f4286bc6937"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03467",
+   "short": "Lei 3467/2026",
+   "title": "Lei nº 3.467, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29426",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29426/lei_no_3.467_de_30.06.2026.pdf",
+     "sha256": "459d77829bf311d55c5cdcf47111cd3d9076a64119e568b5a2a1c6476878537f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03466",
+   "short": "Lei 3466/2026",
+   "title": "Lei nº 3.466, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29424",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29424/lei_no_3.466_de_30_de_junho_de_2026.pdf",
+     "sha256": "2c7be98a2145bd00c0e705c48d53799ce9e4321ce072cf252360ff401e911da6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03465",
+   "short": "Lei 3465/2026",
+   "title": "Lei nº 3.465, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29422",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29422/lei_no_3.465_de_30.06._2026.pdf",
+     "sha256": "a4d9b8bbece409c9e5a78432387f1f6e76e6f3b15fc3352926741b1ecb1ddd8a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03464",
+   "short": "Lei 3464/2026",
+   "title": "Lei nº 3.464, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29421",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29421/lei_no_3.464_de_30.06.2026.pdf",
+     "sha256": "4b81b218993f52899c5d49c5274faf0037746d77901693863c2baa69f98e5d16"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03463",
+   "short": "Lei 3463/2026",
+   "title": "Lei nº 3.463, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29420",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29420/lei_no_3.463_de_30.06.2026.pdf",
+     "sha256": "1e7a7c9387ebadb9193ba997b34809880f3b03d8fdb840a4a7021472bd3fe6b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03462",
+   "short": "Lei 3462/2026",
+   "title": "Lei nº 3.462, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29418",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29418/lei_no_3.462_de_30.06.2026.pdf",
+     "sha256": "1c6a46f1417a61025a86cf9d9ff0749df10138c534aa7cdaf4d4b97a2e38376d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03461",
+   "short": "Lei 3461/2026",
+   "title": "Lei nº 3.461, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29416",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29416/lei_no_3.461_de_30.06.2026.pdf",
+     "sha256": "c1c58326014bb9d6231487ae4bb96946bd15b1ef58e7809e2449d602890f9884"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03460",
+   "short": "Lei 3460/2026",
+   "title": "Lei nº 3.460, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29415",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29415/lei_no_3.460de_30.06.2026.pdf",
+     "sha256": "52483fe170d1130c2c2721c4f1b9d7956057ed33a4288c7665b41ac8ec21272a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03459",
+   "short": "Lei 3459/2026",
+   "title": "Lei nº 3.459, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29414",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29414/lei_no_3.459_de_30.06.2026.pdf",
+     "sha256": "8bce011516f61568653bc2b148eecaedfe7cc52e487354b6e85d8089f961b9b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03458",
+   "short": "Lei 3458/2026",
+   "title": "Lei nº 3.458, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29413",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29413/lei_no_3.458_de_30.06.2026.pdf",
+     "sha256": "acd26a15e9a74c4484bb95c0bd86b9aba2d2640e0ad4efd07560f8295255cb6b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03457",
+   "short": "Lei 3457/2026",
+   "title": "Lei nº 3.457, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29410",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29410/lei_no_3.457_de_30.06._2026.pdf",
+     "sha256": "8c1a2b59835fa35edb6b0a9f2d1b83d6e22866e84e8c691c0d1d2e931ae090f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03456",
+   "short": "Lei 3456/2026",
+   "title": "Lei nº 3.456, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29409",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29409/lei_no_3.456_de_30.06.2026.pdf",
+     "sha256": "8d896104c57e9afe169ce875e97a7847546b65eed8af30c92ca8fa81e79944e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03455",
+   "short": "Lei 3455/2026",
+   "title": "Lei nº 3.455, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29408",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29408/lei_no_3.455_de_30_de_junho_de_2026..pdf",
+     "sha256": "1c9f13132a4d03df253c5b9556c3056a6e419d9f051e2253821e59f51da17b03"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03454",
+   "short": "Lei 3454/2026",
+   "title": "Lei nº 3.454, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29407",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 10,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29407/lei_no_3.454_de_30.06.2026.pdf",
+     "sha256": "027cb49bf17eb0ba42952008fd86bb5ee70d9f96263de2476dd2d8b1756a5e62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03453",
+   "short": "Lei 3453/2026",
+   "title": "Lei nº 3.453, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29406",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29406/lei_no_3.453_de_30.06.2026.pdf",
+     "sha256": "036515ee4c4f91b97cc83cd313b54ee841b14823c90365adeebfbae40b2731f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03452",
+   "short": "Lei 3452/2026",
+   "title": "Lei nº 3.452, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29405",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29405/lei_no_3.452_de_30.06.2026.pdf",
+     "sha256": "234cd0a8194dca79c96226f567d0ae69b0b35e2c32335ff30ac1327a8a76a505"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03451",
+   "short": "Lei 3451/2026",
+   "title": "Lei nº 3.451, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29399",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 20,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29399/lei_no_3.451_de_30.06.2026.pdf",
+     "sha256": "e72dab76babd03b0ab9efd77a55a4ad2abc4a9ff18b3d42cf1401ed6a8daebda"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03450",
+   "short": "Lei 3450/2026",
+   "title": "Lei nº 3.450, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29397",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 11,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29397/lei_no_3.450_de_30.06.2026.pdf",
+     "sha256": "fb7db161c51125a4d32fe3d41ed8748159f727a2ea2539ddae8a608e5739009b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03449",
+   "short": "Lei 3449/2026",
+   "title": "Lei nº 3.449, de 30 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29393",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29393/lei_no_3.449_de_30.06.2026.pdf",
+     "sha256": "a85230d9a596af622a9c50ecc9ef9ac2c3edbdc49ab8d70170e6c6e138594cf1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03445",
+   "short": "Lei 3445/2026",
+   "title": "Lei nº 3.445, de 3 de junho de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29294",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29294/lei_no_3.445_de_03.06.2026.sancionada.pdf______________________________________________________________________________________.pdf",
+     "sha256": "2e294cafef31e6449ceda19ebea63bb3ea186cae792bca1dca54e11e70ece471"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01062",
+   "short": "LC 1062/2026",
+   "title": "Lei Complementar nº 1.062, de 27 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29265",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29265/lei_comp._no_1.062_de_27.05.2026.promulgada.pdf",
+     "sha256": "db7ab815fb2526b27c132242b1491a23a2dabb1ac0eb471642396a41cb7807c7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01061",
+   "short": "LC 1061/2026",
+   "title": "Lei Complementar nº 1.061, de 27 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29262",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 25,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29262/lei_comp._no_1.061_de_27.05.2026.promulgada.pdf",
+     "sha256": "8244238d7815e9aea45beada1f324e16ed7afa9044431c9d49add4aa0245efb6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01058",
+   "short": "LC 1058/2026",
+   "title": "Lei Complementar nº 1.058, de 7 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29567",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29567/lei_comp.no_1.058_de_07.05.2026.pdf",
+     "sha256": "a3c849fe62b6dda898c6a0d49830b269fc96603a8b18c9220f72c465abfc6d0b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01057",
+   "short": "LC 1057/2026",
+   "title": "Lei Complementar nº 1.057, de 5 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29155",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29155/sei_0866163_legislacao_70_2.pdf",
+     "sha256": "8ef6db46428d9fac5a706534dbefe8c613922f3a20166ce170299cd254e4f26c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03435",
+   "short": "Lei 3435/2026",
+   "title": "Lei nº 3.435, de 4 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29192",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 10,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29192/lei__no_3.435_de_04.05.2026.sanc.pdf",
+     "sha256": "0c778660493992ddaccabba2e5c3cc18129b9619d387181d0ef2c18f4ad645c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03434",
+   "short": "Lei 3434/2026",
+   "title": "Lei nº 3.434, de 4 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29191",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 11,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29191/lei_no_3.434_de_04.05.2026.sanc.pdf",
+     "sha256": "4bf66a7c1a4d8b776ce536c89b58a909d0f5cbe88de46024753f260007b9e5a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03433",
+   "short": "Lei 3433/2026",
+   "title": "Lei nº 3.433, de 4 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29170",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 10,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29170/lei_no_3.433_de_04.05.2026.sanc.pdf",
+     "sha256": "219ab416897b47c29b9356850282db099a46aaae60bb852030b498e17d56f2e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03432",
+   "short": "Lei 3432/2026",
+   "title": "Lei nº 3.432, de 4 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29167",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29167/lei_no_3.432_de_04.05.2026.sanc.pdf",
+     "sha256": "3dd25ff3d75a3fc2841e14d7d4f58543ff27b0325982039845ed41641fa6c5ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03431",
+   "short": "Lei 3431/2026",
+   "title": "Lei nº 3.431, de 4 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29164",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29164/lei_no_3.431_de_04.05.2026.sanc.pdf",
+     "sha256": "a318e14c2f334e72c1b6850f0f98afcfa695cd32ca73052282395d445a936775"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03430",
+   "short": "Lei 3430/2026",
+   "title": "Lei nº 3.430, de 4 de maio de 2026",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/29163",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29163/lei_no_3.430_de_04.05.2026.sanc.pdf",
+     "sha256": "d6615e9945171cd3a7a85da01971df901b3bc6a926b582addc2b6d8cc480290b"
+    }
+   ]
   }
  ]
 }
