@@ -1,12 +1,12 @@
 # How this repository was made (Porto Velho)
 
-This file is written by the build on 2026-11-04, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Câmara Municipal de Porto Velho, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.portovelho.ro.leg.br/norma/13615> | 2026-11-04 | Text: Câmara Municipal de Porto Velho, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de Porto Velho, sapl.portovelho.ro.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
+| Câmara Municipal de Porto Velho, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.portovelho.ro.leg.br/norma/13615> | 2026-11-05 | Text: Câmara Municipal de Porto Velho, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de Porto Velho, sapl.portovelho.ro.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -25,7 +25,7 @@ The build made 76 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-04.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 87 laws in the record.
 - 152 tags.
@@ -40,7 +40,7 @@ When a law gives no date of its own, the default rule applies: The Lei Orgânica
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c910e1b9b812a259ca5de4c8a8386e0093edf5dde4fb041eaa9c7b5c98119206` (398691 bytes).
+- Corpus: sha256 `1cdfe32f849ae93bb0d500bee01b67bc8ea5ca6b9798c4b45065bceae0110283` (398691 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
