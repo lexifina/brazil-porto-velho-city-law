@@ -3098,6 +3098,90 @@
      "sha256": "6f05c5cf41f0d7a07a0733a0aff40979fba718813b13f0b4e017798f32efc29b"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-03039",
+   "short": "Lei 3039/2023",
+   "title": "Lei nº 3.039, de 29 de maio de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25295",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 23,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25295/lei_3.039_de_29_de_maio_de_2023.pdf",
+     "sha256": "66be7f8d6c43bcc7453021cc950b4993fc46716e9412dea422473eb5eaa91879"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03021",
+   "short": "Lei 3021/2023",
+   "title": "Lei nº 3.021, de 4 de abril de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25141",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 20,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25141/lei_no_3.021_de_04.04.2023.pdf",
+     "sha256": "c6c94dd31f3eda6852daf03cd810df1236ffc4502a7ce8692fc1ce8b243b08b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03015",
+   "short": "Lei 3015/2023",
+   "title": "Lei nº 3.015, de 7 de março de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25025",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25025/lei_no_3.015_de_07.03.2023.pdf",
+     "sha256": "3f9c45782d48410c4e3582c3b1d510db17ece8f66adeb430b05ec8c63e64b5ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03013",
+   "short": "Lei 3013/2023",
+   "title": "Lei nº 3.013, de 17 de fevereiro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23938",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/23938/lei_3.013.pdf",
+     "sha256": "6a51f79a82184dd21e0e8d21f9b134a58297b0afa84542cf179c8d454629ae8c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03012",
+   "short": "Lei 3012/2023",
+   "title": "Lei nº 3.012, de 17 de fevereiro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23937",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/23937/lei_3.012.pdf",
+     "sha256": "f14996ef27dcf96939e979cccf7f5e05c961cece4144f6142635c039b93c25c0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00934",
+   "short": "LC 934/2023",
+   "title": "Lei Complementar nº 934, de 17 de fevereiro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23936",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/23936/lei_c._934_-_17_de_fevereiro_de_2023.pdf",
+     "sha256": "4586552bf71ab9ebf341d3f1d455f89b4d415d7d05fec174c9cf6f801a69e381"
+    }
+   ]
   }
  ]
 }
