@@ -3182,6 +3182,160 @@
      "sha256": "4586552bf71ab9ebf341d3f1d455f89b4d415d7d05fec174c9cf6f801a69e381"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-03004",
+   "short": "Lei 3004/2022",
+   "title": "Lei nº 3.004, de 28 de dezembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23632",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 14,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/23632/lei_3.004.pdf",
+     "sha256": "5eb147c7afd3155af615bf1542cd30b032a0d776ec5bbd4114901dc6477d86c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03000",
+   "short": "Lei 3000/2022",
+   "title": "Lei nº 3.000, de 26 de dezembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23556",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/23556/lei_3.000.pdf",
+     "sha256": "93ad41f3271449a8b8a5874ae78672ecb89184f7886f09ef9cc026fab1f9f1a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02995",
+   "short": "Lei 2995/2022",
+   "title": "Lei nº 2.995, de 15 de dezembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23588",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 10,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/23588/lei_2.995.pdf",
+     "sha256": "2feaf16157cfc75cce16bea24053eedb9630eab38e7fc23ebddcd78549a1ab73"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02994",
+   "short": "Lei 2994/2022",
+   "title": "Lei nº 2.994, de 15 de dezembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23587",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/23587/lei_2.994.pdf",
+     "sha256": "3c735d33419daf64b08d0e7dcdb81e51cdbebf9b6fd6526222835ca382e3e79a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02993",
+   "short": "Lei 2993/2022",
+   "title": "Lei nº 2.993, de 8 de dezembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23270",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/23270/lei_n_2.993_de_08_de_dezembro_de_2022.pdf",
+     "sha256": "b06c41502f66f12cd3359cebc1ca4fefe1c0cf986a58381a61e0ee7cc6e21382"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02992",
+   "short": "Lei 2992/2022",
+   "title": "Lei nº 2.992, de 8 de dezembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23269",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/23269/lei_n_2.992_de_08_de_dezembro_de_2022.pdf",
+     "sha256": "caa368904677617d513f3ee8cb08a63204959cc7fc261b560a32608341cdbd95"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02986",
+   "short": "Lei 2986/2022",
+   "title": "Lei nº 2.986, de 30 de novembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/23192",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/23192/lei_n_2.986.pdf",
+     "sha256": "96f7a795520596af8444ae7cc657f64b82d85935b9fa52813a28ae4430c7e381"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02983",
+   "short": "Lei 2983/2022",
+   "title": "Lei nº 2.983, de 16 de novembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/22860",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/22860/lei_2.983.pdf",
+     "sha256": "36e738921d97c2fd268c33d5b8a2c599ffa3e6317e8d02cee305255edfd325ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02982",
+   "short": "Lei 2982/2022",
+   "title": "Lei nº 2.982, de 8 de novembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/22693",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/22693/lei_2.982.pdf",
+     "sha256": "48101129ffc7c1529a73cf79e6e6c9ecbf7396460a425423d3aea90f41410ea1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02980",
+   "short": "Lei 2980/2022",
+   "title": "Lei nº 2.980, de 8 de novembro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/22692",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/22692/lei_2.980.pdf",
+     "sha256": "b19dc09b6c4a66e9170bb66d994a6eb2c2f1249fe9e023676d0d1138f3b40cbf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02977",
+   "short": "Lei 2977/2022",
+   "title": "Lei nº 2.977, de 25 de outubro de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/22546",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/22546/lei_no_2.977_de_25.10.2022.pdf",
+     "sha256": "adcf0782fc9e4f43b684b0ceb237f8bb985ce04aad49591dbc70a833fa69f033"
+    }
+   ]
   }
  ]
 }
