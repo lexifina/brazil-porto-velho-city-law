@@ -4778,6 +4778,132 @@
      "sha256": "b6f50615c824fa9f97d44ef4d648c44dcb26b6bcba0f291f43203e9cf47471c4"
     }
    ]
+  },
+  {
+   "slug": "lc-2021-00844",
+   "short": "LC 844/2021",
+   "title": "Lei Complementar nº 844, de 22 de março de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/12893",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 23,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/12893/lei_com_no_844_de_22.03.2021.pdf",
+     "sha256": "74d02fded6cf9ddf90043b042832bbf2e1731bbd0d9d4b71ab1fb4db40ce3307"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00842",
+   "short": "LC 842/2021",
+   "title": "Lei Complementar nº 842, de 26 de fevereiro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25073",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/25073/lei_comp._no_842_de_26.02.2021.pdf",
+     "sha256": "24307730656dc4e7dc9072379125ae0acb5b99630261b51062eb44333358589f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02784",
+   "short": "Lei 2784/2020",
+   "title": "Lei nº 2.784, de 30 de dezembro de 2020",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/12007",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2020/12007/lei__no_2.784__de__30.12.2020_-.pdf",
+     "sha256": "9dbf1a2d83b11bd35b3ba28bed9fb521cfecfc698129f8df349ab474c793b1dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02782",
+   "short": "Lei 2782/2020",
+   "title": "Lei nº 2.782, de 14 de dezembro de 2020",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/11430",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2020/11430/lei_no_2.782_de_14.12.2020_promulgada.pdf",
+     "sha256": "f5f3d46193019b606d5203e9fe041ea541b0d4c5539f0b9c65187b654505d872"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02781",
+   "short": "Lei 2781/2020",
+   "title": "Lei nº 2.781, de 14 de dezembro de 2020",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/11431",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2020/11431/lei_no_2.781_de_14.12.2020__promulgada.pdf",
+     "sha256": "7c3530ca5b78b5c6f5795bb87abac7d6b49e7f5ee6bb32fdfcbfa5e59846f401"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02780",
+   "short": "Lei 2780/2020",
+   "title": "Lei nº 2.780, de 29 de outubro de 2020",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/9475",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2020/9475/lei_no_2.780_de_29.10.2020_...pdf",
+     "sha256": "5b301aca724ddbefdcf260c07a02dfee24819efaef203df46711b675084393a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02779",
+   "short": "Lei 2779/2020",
+   "title": "Lei nº 2.779, de 20 de outubro de 2020",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/9228",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2020/9228/lei_no_2.779_de_20.10.2020_...pdf",
+     "sha256": "71eb4a646260e9f59dbb765d5ba473581010f49287ee983aa21f98e8b3c81944"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00826",
+   "short": "LC 826/2020",
+   "title": "Lei Complementar nº 826, de 13 de outubro de 2020",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/8941",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2020/8941/lei_comp._no_826_de_13.10.2020.pdf",
+     "sha256": "4bbf73c1418c65c49770e57bab4ba2a663d2e9b6a05897f3af46048098cf7d3a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02777",
+   "short": "Lei 2777/2020",
+   "title": "Lei nº 2.777, de 1 de outubro de 2020",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/8809",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2020/8809/lei_no_2.777_de_01.10.2020_...pdf",
+     "sha256": "d1083cda89c75e517116877a6589b55f91b9765822cc64483152b13447c32660"
+    }
+   ]
   }
  ]
 }
