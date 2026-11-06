@@ -2244,6 +2244,146 @@
      "sha256": "f8f53e933021460dbef2c0e79156f5f20e8479f7099cc434de02c386a2109497"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-03198",
+   "short": "Lei 3198/2024",
+   "title": "Lei nº 3.198, de 2 de julho de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26882",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26882/lei_no_3.198_de_02.07.2024_promulgada.pdf",
+     "sha256": "846267d59dbe7ebe3c107569a545486308612d89a73cbceeea1ee19e8fafc194"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03197",
+   "short": "Lei 3197/2024",
+   "title": "Lei nº 3.197, de 2 de julho de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26881",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26881/lei_no_3.197_de_02.07.2024_promulgada.pdf",
+     "sha256": "d7b362eff5a61cf76f3b63ba512730400163a9adc6348fd787e013586fa5c717"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03196",
+   "short": "Lei 3196/2024",
+   "title": "Lei nº 3.196, de 2 de julho de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26880",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26880/lei_no_3.196_de_02.07.2024_promulgada.pdf",
+     "sha256": "6306797cbd06706b2359ca53dfc10ab10896d62f15bdb6cc186bb152610db4ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03195",
+   "short": "Lei 3195/2024",
+   "title": "Lei nº 3.195, de 2 de julho de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26879",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26879/lei_no_3.195_de_02.07.2024_promulgada.pdf",
+     "sha256": "fec92800d4e7e98e71899535be2c1e0be8bc8127e10f16db104a08d5ce6eb28c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03182",
+   "short": "Lei 3182/2024",
+   "title": "Lei nº 3.182, de 15 de maio de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26862",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26862/lei_no_3.182_de_15.05.2024_promulgada.pdf",
+     "sha256": "e73a04fa979d2fdea948a8902718618ef48ecc8b8fb740e948c88eeb12b4d12f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03171",
+   "short": "Lei 3171/2024",
+   "title": "Lei nº 3.171, de 29 de abril de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26503",
+   "versions": [
+    {
+     "from": "2024-05-06",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26503/lei_no_3.171_de_29.04.2024_promulgada.pdf",
+     "sha256": "cb82851e6261f6d63241614741f2cc7257ece5bf7250086d43e3ac45b166c40b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03160",
+   "short": "Lei 3160/2024",
+   "title": "Lei nº 3.160, de 9 de abril de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26463",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26463/lei_no_3.160_de_09.04.2024_promulgada.pdf",
+     "sha256": "82d941a6b3436f49b15ab161f0b2943cc79d05c563873a567ad5d6b37537aa60"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03159",
+   "short": "Lei 3159/2024",
+   "title": "Lei nº 3.159, de 9 de abril de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26462",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 12,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26462/lei_no_3.159_de_09.04.2024_promulgada.pdf",
+     "sha256": "0c81f085cf94807970f316201d9a074b0cb7209c2d45517b056583f39065529a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03158",
+   "short": "Lei 3158/2024",
+   "title": "Lei nº 3.158, de 9 de abril de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26461",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26461/lei_no_3.158_de_09.04.2024_promulgada.pdf",
+     "sha256": "abeb7f2455db31d12fd1ec8fcca69ee385334697a3372f4fe622e9d6dd5d279b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03156",
+   "short": "Lei 3156/2024",
+   "title": "Lei nº 3.156, de 9 de abril de 2024",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/26459",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2024/26459/lei_no_3.156_de_09.04.2024_promulgada.pdf",
+     "sha256": "02e5e756b14a149787e548019655c9766a273d7bde79ca685bb81d0632e12b8a"
+    }
+   ]
   }
  ]
 }
