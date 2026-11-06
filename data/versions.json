@@ -4428,6 +4428,356 @@
      "sha256": "f1cb3079c2a45f24b193c10ab797a6e76aa1203f50a048610597a5698482fa6b"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-02828",
+   "short": "Lei 2828/2021",
+   "title": "Lei nº 2.828, de 24 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13250",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13250/lei_no_2.828_de_24.06.2021.pdf",
+     "sha256": "b4d56a0fd5dbab671c5c7a4e670f3799acd489b43b16bfa3fa6df6beb250e08b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02827",
+   "short": "Lei 2827/2021",
+   "title": "Lei nº 2.827, de 24 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13249",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13249/lei_no_2.827_de_24.06.2021.pdf",
+     "sha256": "bb00e8ece1a18c7e0afb7304a52c52a4a1f3337d6f074ce9add5bf53f77999b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02826",
+   "short": "Lei 2826/2021",
+   "title": "Lei nº 2.826, de 24 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13248",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13248/lei_no_2.826_de_24.06.2021.pdf",
+     "sha256": "645bd8e8c7c9a1fe7afbe1a094a4b3935d9b777f22864dafe466d4bab75b64fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02825",
+   "short": "Lei 2825/2021",
+   "title": "Lei nº 2.825, de 24 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13247",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13247/lei_no_2.825_de_24.06.2021.pdf",
+     "sha256": "cfcd7fa78b4ae84dfeb421a844af9d9f31f0b76841ecb63d79e5718fbca4bd2a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02823",
+   "short": "Lei 2823/2021",
+   "title": "Lei nº 2.823, de 24 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13245",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13245/lei_no_2.823_de_24.06.2021.pdf",
+     "sha256": "33d59deb7e61715bf235a4cd2bf7bcc565888e7a98662982084ba1f8f739cb34"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02820",
+   "short": "Lei 2820/2021",
+   "title": "Lei nº 2.820, de 24 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13242",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13242/lei_no_2.820_de_24.06.2021.pdf",
+     "sha256": "51c7648b66afe50edf939cea28e6809c8227bcf4f940bac400c59c3f2d86ed4b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02819",
+   "short": "Lei 2819/2021",
+   "title": "Lei nº 2.819, de 24 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13241",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13241/lei_no_2.819_de_24.06.2021.pdf",
+     "sha256": "bc4e5e7df6a249024efba2b15aac3541f1fe93ca0802ef37f850d4afc38db5d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02818",
+   "short": "Lei 2818/2021",
+   "title": "Lei nº 2.818, de 24 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13240",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13240/lei_no_2.818_de_24.06.2021.pdf",
+     "sha256": "b65f3e512c1c0456eaf1a1a093bbc8c83714928fdb451ff8a07e3769317bdd14"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02817",
+   "short": "Lei 2817/2021",
+   "title": "Lei nº 2.817, de 15 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13193",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13193/lei_2.817_de_15.06.2021.pdf",
+     "sha256": "19760019e77704f8a56e5b6f59d4fe314d116ab97b725c9315fbc5464a0deeb8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02816",
+   "short": "Lei 2816/2021",
+   "title": "Lei nº 2.816, de 15 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13192",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13192/lei_2.816_de_15.06.2021.pdf",
+     "sha256": "5e27d5a30a1a6518ae659517a1846bb2313ce471edb0c8527d4dc58d57ca778e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00854",
+   "short": "LC 854/2021",
+   "title": "Lei Complementar nº 854, de 15 de junho de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13194",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13194/lei_comp._no_854_de_15.06.2021.pdf",
+     "sha256": "afd1cd57d3f3fb5a498886df1c461168d9616aa8534eddd87ababa33cc7d3a31"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02815",
+   "short": "Lei 2815/2021",
+   "title": "Lei nº 2.815, de 14 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13112",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13112/lei_no_2.815_de_14.05.2021.pdf",
+     "sha256": "998a4dfc315557a27e9f8282b2bb54cca927c231111e6a69a5986661e92b9b2e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02814",
+   "short": "Lei 2814/2021",
+   "title": "Lei nº 2.814, de 14 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13111",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13111/lei_no_2.814_de_14.05.2021.pdf",
+     "sha256": "000ada5949138940642d219d3e57ca93a3186e07eba354f5273ad414be362b41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02813",
+   "short": "Lei 2813/2021",
+   "title": "Lei nº 2.813, de 14 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13113",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13113/lei_no_2.813_de_14.05.2021.pdf",
+     "sha256": "d6cdddefc2f547c85fcc4c45100f5b0b0d4d0650ac22973b399d579186f4d643"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02812",
+   "short": "Lei 2812/2021",
+   "title": "Lei nº 2.812, de 14 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13114",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13114/lei_no_2.812_de_14.05.2021.pdf",
+     "sha256": "c0fbd675168c85278cf3679212363d78b026d7717997a0fa0fbc18d669e3879e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02811",
+   "short": "Lei 2811/2021",
+   "title": "Lei nº 2.811, de 10 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13039",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13039/lei_no_2.811_de_10.05.2021.pdf",
+     "sha256": "d769b59fed92dfb49b3ea4e7fa88aee6bafb1a94d230f8916c686ff9d26e22ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02810",
+   "short": "Lei 2810/2021",
+   "title": "Lei nº 2.810, de 10 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13038",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13038/lei_no_2.810_de_10.05.2021.pdf",
+     "sha256": "1e4fc2b94821572a8bba42a74ef7fb9746a61509c8d38c846791e7437bd6bb8c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02809",
+   "short": "Lei 2809/2021",
+   "title": "Lei nº 2.809, de 10 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13037",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13037/lei_no_2.809_de_10.05.2021.pdf",
+     "sha256": "09c2e98b99c948f0d4f1652ae433de309d9667d55de299cdf454da2b738bd07a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02808",
+   "short": "Lei 2808/2021",
+   "title": "Lei nº 2.808, de 10 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13036",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13036/lei_no_2.808_de_10.05.2021.pdf",
+     "sha256": "07315efbd2189a5d0d43ee94afc97faf3366d1d32323385c8bdc3ccd6445d962"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02807",
+   "short": "Lei 2807/2021",
+   "title": "Lei nº 2.807, de 10 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13035",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13035/lei_no_2.807_de_10.05.2021.pdf",
+     "sha256": "da66f1352a40969574018d10867423ce75945bd1d6aaedbfebf3eabdeda8f2e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02806",
+   "short": "Lei 2806/2021",
+   "title": "Lei nº 2.806, de 10 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13034",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13034/lei_no_2.806_de_10.05.2021.pdf",
+     "sha256": "6c43a1675c15f3f07bcd0809366ea021132d344c0bcba35bf1567f70743f5520"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02805",
+   "short": "Lei 2805/2021",
+   "title": "Lei nº 2.805, de 10 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13033",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13033/lei_no_2.805_de_10.05.2021.pdf",
+     "sha256": "c23a9fa6291ca81b88b869786d38e09de297e9dd32f8a82a54003d9b4a414b68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02804",
+   "short": "Lei 2804/2021",
+   "title": "Lei nº 2.804, de 10 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13032",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13032/lei_no_2.804_de_10.05.2021.pdf",
+     "sha256": "d4ade019e079fcdb1bd3c48ec7e8f5674a3ed08b61e9a29ad2ef97ecd48142dc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00847",
+   "short": "LC 847/2021",
+   "title": "Lei Complementar nº 847, de 10 de maio de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/13040",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/13040/lei_comp_no_847_de_10.05.2021.pdf",
+     "sha256": "144e8e7da4e55f9b32cdaef909c655412783345fd82f90170b0e61e9cb10c28b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00846",
+   "short": "LC 846/2021",
+   "title": "Lei Complementar nº 846, de 14 de abril de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/12955",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/12955/lei_comp_no_846_de_14.04.2021.pdf",
+     "sha256": "b6f50615c824fa9f97d44ef4d648c44dcb26b6bcba0f291f43203e9cf47471c4"
+    }
+   ]
   }
  ]
 }
