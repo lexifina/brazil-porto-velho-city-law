@@ -3840,6 +3840,244 @@
      "sha256": "c564e82146b469f20bb48bfba7a1d0df0696f0804a61d092695d01f5d7b31361"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-02908",
+   "short": "Lei 2908/2021",
+   "title": "Lei nº 2.908, de 27 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/15279",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 12,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/15279/lei_no_2.908_de_27.12.2021.pdf",
+     "sha256": "419811b39fa9eb86a7b24c8e8f1b12ef41897a5edd5f327e218da83c81df7cfd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02907",
+   "short": "Lei 2907/2021",
+   "title": "Lei nº 2.907, de 27 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/15278",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/15278/lei_no_2.907_de_27.12.2021.pdf",
+     "sha256": "a4e697e7ea965ca9da754339c4f4733a51b22e61451c9774ecedb25c7da08d05"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02906",
+   "short": "Lei 2906/2021",
+   "title": "Lei nº 2.906, de 27 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/15277",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/15277/lei_no_2.906_de_27.12.2021.pdf",
+     "sha256": "a2963a4b2e8e529998d53c7a473bbedf864d5faae6e82112d72c392f4fb2985d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02905",
+   "short": "Lei 2905/2021",
+   "title": "Lei nº 2.905, de 20 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14803",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14803/lei_2.905.pdf",
+     "sha256": "d6f3de6e633762447d0dde7b380c57e51aa37df22946fe3aff0b528083486d37"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02904",
+   "short": "Lei 2904/2021",
+   "title": "Lei nº 2.904, de 20 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14797",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 20,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14797/lei_2.904.pdf",
+     "sha256": "00efcb47c31226032a269e75042c99e43c1fcd8ec1471ed585d4319956a9f74d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02900",
+   "short": "Lei 2900/2021",
+   "title": "Lei nº 2.900, de 17 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14722",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14722/lei_no_2.900_de_17.12.2021_pl_4307_-_sancao_expressa.pdf",
+     "sha256": "81430de4bdf050afbc56442f62d8c1d0cda484dde1e10ae3c1ed6f268fe27473"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02892",
+   "short": "Lei 2892/2021",
+   "title": "Lei nº 2.892, de 3 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14536",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14536/lei_no_2.892_de_03.12.2021.pdf",
+     "sha256": "484cb07d29ac4d5fbdfcc59fd5cf429420681d4d328993d7125922624378110b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02891",
+   "short": "Lei 2891/2021",
+   "title": "Lei nº 2.891, de 3 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14535",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14535/lei_no_2.891_de_03.12.2021.pdf",
+     "sha256": "6f8680410e77f192e3609f9b9d5e5aba1c6933371029fe79992390bd890d5d31"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02890",
+   "short": "Lei 2890/2021",
+   "title": "Lei nº 2.890, de 3 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14534",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14534/lei_no_2.890_de_03.12.2021.pdf",
+     "sha256": "257885d26aad892f9762d4a12eb891439483831c3fe78e9d339096f0c38b46e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02889",
+   "short": "Lei 2889/2021",
+   "title": "Lei nº 2.889, de 3 de dezembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14533",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14533/lei_no_2.889_de_03.12.2021.pdf",
+     "sha256": "11c72d84ed3dc1c1800239a838bb282650abafe3b8d45d18b5b316ba3b782d2b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02885",
+   "short": "Lei 2885/2021",
+   "title": "Lei nº 2.885, de 19 de novembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14273",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14273/lei_no_2.885.pdf",
+     "sha256": "4a9e6ea8773827dd0a958ec4f8e987ad08d47b840a2d459a8ed026fe6665d64e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02882",
+   "short": "Lei 2882/2021",
+   "title": "Lei nº 2.882, de 8 de novembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14082",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14082/2.882_08.11.2021.pdf",
+     "sha256": "3d688d67bdcc6f9187a721a0bf7381b78658fb8bc29131df7a9665adebbeaa14"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02881",
+   "short": "Lei 2881/2021",
+   "title": "Lei nº 2.881, de 8 de novembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14081",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14081/2.881_08.11.2021.pdf",
+     "sha256": "61a8aa054c812274391d5fe724767d77c17e0c410dc8966b0a4e8790f411c51d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02880",
+   "short": "Lei 2880/2021",
+   "title": "Lei nº 2.880, de 8 de novembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14080",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14080/2.880_08.11.2021.pdf",
+     "sha256": "8376d20c8a17875e8b4214e787c5caceec3007e27337c349f0a5ac41b8177673"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02879",
+   "short": "Lei 2879/2021",
+   "title": "Lei nº 2.879, de 8 de novembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14079",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14079/2.879_08.11.2021.pdf",
+     "sha256": "b03a0d096e470cb5b250ab8bfec434ceba4f26cf0fc99e4343ba0c167b8657b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02878",
+   "short": "Lei 2878/2021",
+   "title": "Lei nº 2.878, de 8 de novembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14078",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14078/2.878.pdf",
+     "sha256": "60a1e2274d6bbc7ffb1b3442cdd547fb7c85d4ffab4c7f0b0be31e44d6c0e655"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02877",
+   "short": "Lei 2877/2021",
+   "title": "Lei nº 2.877, de 8 de novembro de 2021",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/14504",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2021/14504/2.877_de_08.11.2021.pdf",
+     "sha256": "5783bf07f056d7a7f546d6fd1d74f8b214b07f6e13fe205ebaefca14f1d24312"
+    }
+   ]
   }
  ]
 }
