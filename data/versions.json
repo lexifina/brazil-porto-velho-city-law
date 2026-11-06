@@ -3630,6 +3630,216 @@
      "sha256": "b28d250ca970488d746bde512cedd4c9d1a750ad72063c114ad0a08738cf7e11"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-02941",
+   "short": "Lei 2941/2022",
+   "title": "Lei nº 2.941, de 15 de junho de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/18913",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/18913/lei_n_2.941_de_15_junho_de_2022.pdf",
+     "sha256": "d3cc033bea4eac0e954bc5f88f5ba10c71989ad48459517774c0243720844430"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02940",
+   "short": "Lei 2940/2022",
+   "title": "Lei nº 2.940, de 15 de junho de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/18912",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/18912/lei_n_2.940_de_15_junho_de_2022.pdf",
+     "sha256": "fd1f00982b35a90f41cf9bf60443389a123a4bb2a8622f5446db58bf7e844381"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02939",
+   "short": "Lei 2939/2022",
+   "title": "Lei nº 2.939, de 15 de junho de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/18911",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/18911/lei_n_2.939_de_15_junho_de_2022.pdf",
+     "sha256": "ba42e8754e2fe1902df0fae32abf41427677f94ea3e33c0e735d5198059a284d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02938",
+   "short": "Lei 2938/2022",
+   "title": "Lei nº 2.938, de 15 de junho de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/18910",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/18910/lei_n_2.938_de_15_junho_de_2022.pdf",
+     "sha256": "3e47facc0d25f2dd25f31b24e229d6f055595ea05eca6374c5348ffa707ffb67"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02937",
+   "short": "Lei 2937/2022",
+   "title": "Lei nº 2.937, de 15 de junho de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/18909",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 10,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/18909/lei_n_2.937_de_15_junho_de_2022.pdf",
+     "sha256": "57dedc6db085591db966709c77d3b91348109aa7784b27e2e3345a47403359b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02935",
+   "short": "Lei 2935/2022",
+   "title": "Lei nº 2.935, de 8 de junho de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/18866",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/18866/lei_n_2.935_de_08_junho_de_2022.pdf",
+     "sha256": "db0e3f727b03e29fa51bac5e6716b6d64ae4839660cff45d983c167e3168172b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00900",
+   "short": "LC 900/2022",
+   "title": "Lei Complementar nº 900, de 4 de maio de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/17821",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/17821/lei_complementar_n_900_de_04_de_maio_de_20221736.pdf",
+     "sha256": "28ec563adc505ba0a8ae49056fc9e8a055a2c2fcbb23b7bfd8ac078e5918c1bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02920",
+   "short": "Lei 2920/2022",
+   "title": "Lei nº 2.920, de 30 de março de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/17346",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/17346/lei_n_2.920_de_30_marco_de_2022.pdf",
+     "sha256": "f7f233325956ea3c80ca823a9486b66a90aec160d3c3faae32849eecfc956bbc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02918",
+   "short": "Lei 2918/2022",
+   "title": "Lei nº 2.918, de 30 de março de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/17344",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 14,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/17344/lei_n_2.918_de_30_marco_de_2022.pdf",
+     "sha256": "128eb4629fd12a7c286bd25e1856d1eb0499214d1b75eece0a84c276d63b44d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02917",
+   "short": "Lei 2917/2022",
+   "title": "Lei nº 2.917, de 30 de março de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/17343",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/17343/lei_n_2.917_de_30_marco_de_2022.pdf",
+     "sha256": "ce758eb8c59cb307fd42bdf1733832bb65c49485a7b110f5b11eda0a6bfbf0ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02916",
+   "short": "Lei 2916/2022",
+   "title": "Lei nº 2.916, de 30 de março de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/17342",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/17342/lei_n_2.916_de_30_marco_de_2022.pdf",
+     "sha256": "7bf5b2bd959d4d723510f9b0245a63cf11862f4d2842795cd9a93238f2bea94e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02915",
+   "short": "Lei 2915/2022",
+   "title": "Lei nº 2.915, de 30 de março de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/17341",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 20,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/17341/lei_n_2.915_de_30_marco_de_2022.pdf",
+     "sha256": "4638623e8366618bf85dc031fb05fa25206dae63b35662371fdc7d93c5bbd6f8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00890",
+   "short": "LC 890/2022",
+   "title": "Lei Complementar nº 890, de 30 de março de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/17349",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 13,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/17349/lei_complementar_n_890_de_30_marco_de_2022.pdf",
+     "sha256": "f41bdd7757ee7d4c2af1666b1a2ad11268de765544e8c5e274c6e2ad530d6672"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00888",
+   "short": "LC 888/2022",
+   "title": "Lei Complementar nº 888, de 11 de março de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/16608",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/16608/lei_comp._n_888_-_2022_nova_redacao_lc_n_885.pdf",
+     "sha256": "fb1c8bb601b6d7ed0101f30920aae25785320cf26a827dad9e8e3af5be788199"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02914",
+   "short": "Lei 2914/2022",
+   "title": "Lei nº 2.914, de 7 de março de 2022",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/17055",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2022/17055/lei_n_2.914_de_07_marco_de_2022.pdf",
+     "sha256": "c564e82146b469f20bb48bfba7a1d0df0696f0804a61d092695d01f5d7b31361"
+    }
+   ]
   }
  ]
 }
