@@ -1908,6 +1908,300 @@
      "sha256": "9869246bad4ec5f081c6ebbd38c45f0410532b6fae48dbb177575dfdccafd181"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-03362",
+   "short": "Lei 3362/2025",
+   "title": "Lei nº 3.362, de 19 de dezembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28721",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28721/lei_no_3.362_de_19.12.2025_san.expressa.pdf",
+     "sha256": "439c0a6f2e6965ee51b38945a501da13669d4a404b009ebc86907eb010c487ee"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01047",
+   "short": "LC 1047/2025",
+   "title": "Lei Complementar nº 1.047, de 19 de dezembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28717",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28717/lei_comp.no1.047_de_19.12.2025.pdf",
+     "sha256": "5259a37744f795604026f61b0b54e3f1a9aee8d08adff8d287c5f2c27c39902f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01044",
+   "short": "LC 1044/2025",
+   "title": "Lei Complementar nº 1.044, de 19 de dezembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28711",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 8,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28711/lei_complementar_no_1.044_de_19_de_dezembro_de_2025_sei.pdf",
+     "sha256": "5706f5054bad6194c85be21b20ee25ed2305061277b38fa5ffde32996b64b0ce"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01042",
+   "short": "LC 1042/2025",
+   "title": "Lei Complementar nº 1.042, de 8 de dezembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28662",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28662/lei_com._no_1.042_de_08.12._2025.sancionada.pdf",
+     "sha256": "2bb8c0a4b122aa9a375741a95cf23aa39ba47424a88ce527c4959fe8daa49b66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03347",
+   "short": "Lei 3347/2025",
+   "title": "Lei nº 3.347, de 27 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28643",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 16,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28643/lei_no_3347.pdf",
+     "sha256": "1078d1f06f280bbe0a98bd40ce441943a0812b8a0fd36c610697d4c1a60c22d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03346",
+   "short": "Lei 3346/2025",
+   "title": "Lei nº 3.346, de 25 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28606",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28606/leino3.346de25denovembrode2025..pdf",
+     "sha256": "7bd614fedcc3b877811c53fa82b6d3780a85607c4b42e22511238c678a1fb076"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01040",
+   "short": "LC 1040/2025",
+   "title": "Lei Complementar nº 1.040, de 24 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28613",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28613/leicomplementarnaa1.040de24denovembrode2025ver.adrianogomes.pdf",
+     "sha256": "49c4776f6cec73c1af4c2ad461e759e41f85a0896acc228cf172e145df5a41e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03341",
+   "short": "Lei 3341/2025",
+   "title": "Lei nº 3.341, de 19 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28590",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28590/lei_no_3.341_de_19_de_novembro_de_2025..pdf",
+     "sha256": "c0975848242ae4e616ffa6cb60d8398e9c4745637d440164ef9ed823598bb1ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03340",
+   "short": "Lei 3340/2025",
+   "title": "Lei nº 3.340, de 19 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28589",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 44,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28589/lei_no_3.340_de_19_de_novembro_de_2025..pdf",
+     "sha256": "c83d3d05c642f943146d33b6575a96de7168eb26282b7dc33201c0e8346b5bd8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01039",
+   "short": "LC 1039/2025",
+   "title": "Lei Complementar nº 1.039, de 19 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28588",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 38,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28588/lei_complementar_no_1.039_de_19_de_novembro_de_2025.pdf",
+     "sha256": "d6cdc3eb09256f8e4ed989c6705447e2db1f98d979a2e788bf955312a8572142"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01037",
+   "short": "LC 1037/2025",
+   "title": "Lei Complementar nº 1.037, de 19 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28586",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 3,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28586/lei_complementar_no_1.037_de_19_de_novembro_de_2025..pdf",
+     "sha256": "7ebac27fadd09922a1241be16f5590a6b15296fcf8a2a16f8266ba9c142d86a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03335",
+   "short": "Lei 3335/2025",
+   "title": "Lei nº 3.335, de 3 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28520",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28520/lei_no_3.335_de_03_de_novembro_de_2025.pdf",
+     "sha256": "55ea0c16ad925c236cd62864cd2d07ad9a71adeed747dca81e4239db5e14045e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03334",
+   "short": "Lei 3334/2025",
+   "title": "Lei nº 3.334, de 3 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28519",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28519/lei_no_3.334_de_03_de_novembro_de_2025.pdf",
+     "sha256": "a696c116d5a13b48d14cd2675023f3da9ca4e77f5225f7285872251b4a5cc4eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03333",
+   "short": "Lei 3333/2025",
+   "title": "Lei nº 3.333, de 3 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28518",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28518/lei_no_3.333_de_03_de_novembro_de_2025..pdf",
+     "sha256": "74df30c302a49527abb185ae16694cc56234dc8d4a47dc5fea4ae906f7947566"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03332",
+   "short": "Lei 3332/2025",
+   "title": "Lei nº 3.332, de 3 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28517",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28517/lei_no_3.332_de_03_de_novembro_de_2025..pdf",
+     "sha256": "d42c4724ca68fe08343a7a5bb7b7cb69da27fc44c4ac4697ee42ab2fc9e6eea1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03331",
+   "short": "Lei 3331/2025",
+   "title": "Lei nº 3.331, de 3 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28515",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28515/lei_no_3.331_03_de_novembro_de_2025..pdf",
+     "sha256": "fc01f0a93e0db3e228333d4362a6a6fb0b41cbddaff20f88a484c9abfb2748c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03330",
+   "short": "Lei 3330/2025",
+   "title": "Lei nº 3.330, de 3 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28510",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28510/lei_no_3.330_de_03_de_novembro_de_2025.pdf",
+     "sha256": "15ed4bb158d51d5810ffef2d62602660f603e1aadef0493bb423bf72076a97f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03329",
+   "short": "Lei 3329/2025",
+   "title": "Lei nº 3.329, de 3 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28509",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28509/lei_no_3.329_de_03_de_novembro_de_2025.pdf",
+     "sha256": "6081f999785c97eeaa533532db86172385fc36338a6ebadf61f25ab7a0829ce5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03328",
+   "short": "Lei 3328/2025",
+   "title": "Lei nº 3.328, de 3 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28508",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 6,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28508/lei_no_3.328_de_03_de_novembro_de_2025..pdf",
+     "sha256": "6c50e38583736f815e1991cc30c91aea8fa2bd1d771939bc8b9de987e2a2f805"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03326",
+   "short": "Lei 3326/2025",
+   "title": "Lei nº 3.326, de 3 de novembro de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28498",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28498/lei_no_3.326_de_03_de_novembro_de_2025..pdf",
+     "sha256": "44b1b6269bd24eaf55ed47eea2e4f9351483972209c3846adcec2a1a6a6dbe75"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03295",
+   "short": "Lei 3295/2025",
+   "title": "Lei nº 3.295, de 28 de agosto de 2025",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/28314",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2025/28314/leinaa3.295de28deagostode2025ver.pedrogeovar.pdf",
+     "sha256": "8e1945085785f2d98d324f59b8f3b0691bb43dfd2616de47534114495721fd7f"
+    }
+   ]
   }
  ]
 }
