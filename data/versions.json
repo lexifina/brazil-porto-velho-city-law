@@ -2552,6 +2552,258 @@
      "sha256": "8a02044c748b65e74219a0a7cffd3c978793dd7d82e82a318cde8f66b6695691"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-03120",
+   "short": "Lei 3120/2023",
+   "title": "Lei nº 3.120, de 5 de dezembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25986",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 39,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25986/lei_no_3.120_de_05.12.2023san_o_aoexpressapl4591.pdf",
+     "sha256": "ab44e9fc64e977ed33903a64661027e14a6bcf4c5a3f67e11c944e76d9a7cda1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00964",
+   "short": "LC 964/2023",
+   "title": "Lei Complementar nº 964, de 5 de dezembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25989",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25989/lei_comp._no_964_de_05.12.2023.pdf",
+     "sha256": "62141fcbdb7dd022bcf7ebd2ab6064504a5f2b1436af05adb022a253eddac5af"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03116",
+   "short": "Lei 3116/2023",
+   "title": "Lei nº 3.116, de 23 de novembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25975",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25975/lei_3.116_-2023.pdf",
+     "sha256": "bb65a7fb5b016d0988d285c7ec490d2c52cd23429c3af4af1e2d35b88e24d45c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00963",
+   "short": "LC 963/2023",
+   "title": "Lei Complementar nº 963, de 23 de novembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25985",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25985/lei_comp._no_963-2023.pdf",
+     "sha256": "ee5580b17f415c60f4038fd8286a75b86ecfe6f5ebceed2192379ac029dfdd4b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03115",
+   "short": "Lei 3115/2023",
+   "title": "Lei nº 3.115, de 16 de novembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25974",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25974/lei_3.115-2023.pdf",
+     "sha256": "f5b0222cc6b94d08b0b8c450047f5698fddb53048473d579e53164bc7cb5aa7f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03114",
+   "short": "Lei 3114/2023",
+   "title": "Lei nº 3.114, de 14 de novembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25973",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25973/lei__n_3.114_de_14_de_novembro_de_2023.pdf",
+     "sha256": "bf70f15068577cf348704ebec0963307286a786332236b14632e4a7108746a46"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03110",
+   "short": "Lei 3110/2023",
+   "title": "Lei nº 3.110, de 26 de outubro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25970",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25970/lei__3.110_26_de_outubro_de_2023.pdf",
+     "sha256": "caa3fe143347c404fbaf797bb170a189ccc4b2f21406451938a472109b7cfeda"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03109",
+   "short": "Lei 3109/2023",
+   "title": "Lei nº 3.109, de 26 de outubro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25969",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 4,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25969/lei_3.109_26_de_outubro_de_2023.pdf",
+     "sha256": "6d1a19084323f3d495e4981bd36fe9892cfa349eccb2e7c2de6761d1d86f1cbd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03102",
+   "short": "Lei 3102/2023",
+   "title": "Lei nº 3.102, de 17 de outubro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25880",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 9,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25880/lei_3.102_de_17_de_outubro_de_2023.pdf",
+     "sha256": "55e4040fe5eb4d4eecae3c259b45300d1a62ac67f9b1333e40167f5efbe2f46e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00955",
+   "short": "LC 955/2023",
+   "title": "Lei Complementar nº 955, de 11 de outubro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25877",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25877/lei_comp._no_955_de_11.10.2023.pdf",
+     "sha256": "12193e622cff69a49f457dc5163dbf5cb7232466b267678482d702d0bd01f228"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03100",
+   "short": "Lei 3100/2023",
+   "title": "Lei nº 3.100, de 28 de setembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25812",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 10,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25812/lei_no_3.100_de_28_de_setembro_de_2023.pdf",
+     "sha256": "8bbf80dbe82bb578b1526f9a4899ab3d196dc1995eb8804c0bb1ce5f8d8734dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03099",
+   "short": "Lei 3099/2023",
+   "title": "Lei nº 3.099, de 28 de setembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25811",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25811/lei_no_3.099_de_28_de_setembro_de_2023.pdf",
+     "sha256": "49dd540d4d785a05b26633d22be70d4876ea2fe7f506585605ff220c546b97e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03098",
+   "short": "Lei 3098/2023",
+   "title": "Lei nº 3.098, de 28 de setembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25810",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25810/lei_no_3.098_de_28_de_setembro_de_2023.pdf",
+     "sha256": "a9bccd080b836bd2d3e900d40aef84deaab2caaf60dcf896d7616928299b0f7f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03097",
+   "short": "Lei 3097/2023",
+   "title": "Lei nº 3.097, de 28 de setembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25809",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25809/lei_no_3.097_de_28_de_setembro_de_2023.pdf",
+     "sha256": "e8e798a9d7daf911778b9aa44699ab559c6c1aedd97be80bc16a378274413b9e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03093",
+   "short": "Lei 3093/2023",
+   "title": "Lei nº 3.093, de 19 de setembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25806",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25806/lei_no_3.093_de_19_de_setembro_de_2023.pdf",
+     "sha256": "c9e25328e472a9ff1da887ef687c8026995d359cbcf5c899db60364f838c9280"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03092",
+   "short": "Lei 3092/2023",
+   "title": "Lei nº 3.092, de 19 de setembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25805",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 7,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25805/lei_no_3.092_de_19_de_setembro_de_2023.pdf",
+     "sha256": "e8bb71b4bccf980f9b38864c6a7add81a9ecd5d05e08cbcf158cb088bc31b47c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03091",
+   "short": "Lei 3091/2023",
+   "title": "Lei nº 3.091, de 19 de setembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25804",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 5,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25804/lei_no_3.091_de_19_de_setembro_2023.pdf",
+     "sha256": "ba9a8b2982ced98882c4efac8eec9631c1ab6d3d08f21b2f43a7356956d55d97"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00953",
+   "short": "LC 953/2023",
+   "title": "Lei Complementar nº 953, de 14 de setembro de 2023",
+   "url": "https://sapl.portovelho.ro.leg.br/norma/25718",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 16,
+     "source_url": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2023/25718/lei_comp._no_953_de_14.09.2023_cmdr_proc._00600-00035678-2023-30-e.pdf",
+     "sha256": "c155455946ba9ffa125b4f6de24e540a76beec2cc6889ba5c42e3122ec4391a2"
+    }
+   ]
   }
  ]
 }
